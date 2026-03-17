@@ -1,0 +1,21 @@
+{
+  "name": "cheil-slidev",
+  "private": true,
+  "type": "module",
+  "workspaces": {
+    "packages": ["presentations/*", "themes/*"],
+    "catalog": {
+      "@slidev/cli": "^52.0.0",
+      "@slidev/theme-apple-basic": "^0.25.1",
+      "@slidev/theme-default": "latest",
+      "echarts": "^6.0.0",
+      "vue-echarts": "^8.0.1"
+    }
+  },
+  "scripts": {
+    "new": "node scripts/create.mjs"
+  },
+  "devDependencies": {
+    "unocss": "^66.6.2"
+  }
+}

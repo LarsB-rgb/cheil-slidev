@@ -1,0 +1,16 @@
+{
+  "name": "@keynotes/samsung-premium-tv",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "PORT=$((3000 + $(echo $PWD | cksum | cut -d' ' -f1) % 100)) && mkdir -p .claude && echo $PORT > .claude/.dev-port && yes '' 2>/dev/null | slidev slides.md --port $PORT",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@keynotes/slidev-addon-cheil": "../../themes/cheil",
+    "@slidev/cli": "catalog:",
+    "@slidev/theme-apple-basic": "catalog:",
+    "@slidev/theme-default": "catalog:"
+  }
+}
