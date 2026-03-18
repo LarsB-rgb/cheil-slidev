@@ -1561,29 +1561,23 @@ class: text-sm
 
 ## Mentale Verfügbarkeit für Samsung TV aufbauen.
 
-<div class="grid grid-cols-3 gap-3 mt-3">
+<div class="grid grid-cols-2 gap-3 mt-3">
 <div class="opti-block opti-analog" style="overflow-y: auto; max-height: 72vh;">
-<div class="mono text-xs mb-2 accent-orange">// Fachhandel</div>
-<div class="opti-bullet">POS-Material das Anti-Glare als eigene Kategorie kommuniziert: "Der beste TV für helle Räume."</div>
+<div class="mono text-xs mb-2 accent-orange">// Fachhandel/Buying Groups</div>
+<div class="opti-bullet">Benefit-orientierte Kommunikation und Kategorisierung am POS — alle Modell-Benefits klar und navigierbar kommunizieren (nicht nur Anti-Glare).</div>
+<div class="opti-bullet">Ratgeber am POS der Benefits der einzelnen Modelle erläutert — vergleichbar mit Coolblue-Ansatz.</div>
+<div class="opti-bullet">Fachhandelsmedien (B2B + B2C): Euronics Trendblog als Plattform für Samsung Technologien — Anti-Glare, SmartThings, Gaming.</div>
 <div class="opti-bullet">Demo-Content mit eigenem Receiver: kuratierter 4K/8K HDR-Content statt gemeinsamer Antennen-Receiver.</div>
-<div class="mono text-xs mb-2 mt-3 accent-orange">// Buying Groups</div>
-<div class="opti-bullet">Ratgeber bei Expert.de und Euronics.de: <strong>"Welcher Samsung TV passt zu mir?"</strong> als co-gebrandeter Content.</div>
-<div class="opti-bullet">Samsung-Technologie-Hub als Euronics-Trendblog-Beitrag: Anti-Glare, Helligkeit und SmartThings erklärt.</div>
+<div class="opti-bullet">Coin-System / Incentive-Programm: LG zahlt €30/Verkauf in 200+ Fachgeschäften — gleiches Modell für Samsung aufbauen.</div>
 </div>
 <div class="opti-block opti-analog" style="overflow-y: auto; max-height: 72vh;">
 <div class="mono text-xs mb-2 accent-orange">// MSD</div>
-<div class="opti-bullet">Samsung Brand Store auf mediamarkt.de mit TV-spezifischem Storytelling und Anti-Glare als Kernbotschaft.</div>
-<div class="opti-bullet">myMediaMarkt-Integration: Samsung als Markenpartner für 14M+ Mitglieder aktivieren.</div>
-<div class="mono text-xs mb-2 mt-3 accent-orange">// Lokales Marketing</div>
-<div class="opti-bullet">Hyperlokal Social Proof: PLZ-basierte Kommunikation an bestehende Samsung-Besitzer. <em>"In Ihrem Viertel entscheiden sich immer mehr für Samsung OLED."</em></div>
+<div class="opti-bullet">Benefit-orientierte Kommunikation und Kategorisierung in MediaMarkt Filialen: klare Produktnavigation Premium/Mid/Budget am echten POS.</div>
+<div class="opti-bullet">myMediaMarkt: Samsung als Markenpartner für 14M+ Mitglieder aktivieren.</div>
+<div class="mono text-xs mb-2 mt-3 accent-orange">// Lokales Marketing & Neue Wege</div>
+<div class="opti-bullet">Hyperlokal Social Proof: PLZ-basierte Kommunikation an bestehende Samsung-Besitzer.</div>
 <div class="opti-bullet">Installer als lokaler Botschafter: Karte beim TV-Aufbau mit lokalem Social Proof.</div>
-<div class="opti-bullet">Neubaugebiete als Zielgruppe: Kooperation mit Immobilienmaklern und Hausverwaltungen.</div>
-</div>
-<div class="opti-block opti-dist" style="overflow-y: auto; max-height: 72vh;">
-<div class="mono text-xs mb-2 accent-pink">// Neue Distributionswege</div>
-<div class="opti-bullet">Möbelhäuser: The Frame in IKEA, XXXLutz, Westwing als Wohnzimmer-Element inszenieren.</div>
-<div class="opti-bullet">Architekt und Inneneinrichter als B2B-Kanal: The Frame als Designobjekt. Strukturierter Zugang fehlt heute komplett.</div>
-<div class="opti-bullet">Energie-Kooperation: Samsung TVs im Kontext von Smart Home und Energieeffizienz. SmartThings als verbindendes Element.</div>
+<div class="opti-bullet">Own Stores: Brand Awareness ohne Limits stärken — TVs prominent platzieren, volle Markenkontrolle.</div>
 </div>
 </div>
 
@@ -1595,26 +1589,20 @@ class: text-sm
 
 ## Das 14-Tage-Fenster und die Notkäufer erreichen.
 
-<div class="grid grid-cols-3 gap-3 mt-3">
+<div class="grid grid-cols-2 gap-3 mt-3">
 <div class="opti-block opti-analog" style="overflow-y: auto; max-height: 72vh;">
-<div class="mono text-xs mb-2 accent-orange">// Fachhandel</div>
-<div class="opti-bullet">Verfügbarkeitsgarantie kommunizieren: Notkäufer brauchen Sicherheit dass das Gerät sofort verfügbar ist.</div>
-<div class="opti-bullet">Express-Lieferung und Same-Day-Installation als Fachhandel-exklusives Angebot.</div>
-<div class="mono text-xs mb-2 mt-3 accent-orange">// Buying Groups</div>
-<div class="opti-bullet">Lokale Hausmessen von Expert und Euronics als Touchpoint für Upgrade-Kommunikation nutzen.</div>
-<div class="opti-bullet">KOOP-Messe Hannover 2027 als Samsung Premium-Inszenierungsplattform für Upgrade-Kampagne.</div>
+<div class="mono text-xs mb-2 accent-orange">// Fachhandel/Buying Groups</div>
+<div class="opti-bullet">Verfügbarkeitsanzeige auf Website: Notkäufer müssen sofort sehen ob das Gerät verfügbar ist.</div>
+<div class="opti-bullet">Link zu Dropshipment: Händler kann liefern auch ohne Lagerbestand.</div>
+<div class="opti-bullet">Express-Lieferung + Same-Day-Installation als exklusives Angebot für Fachhandelspartner.</div>
+<div class="opti-bullet">Lokale Hausmessen von Expert und Euronics als Touchpoint für Upgrade-Kommunikation.</div>
+<div class="opti-bullet">KOOP-Messe Hannover 2027 als Samsung Premium-Inszenierungsplattform.</div>
 </div>
 <div class="opti-block opti-analog" style="overflow-y: auto; max-height: 72vh;">
-<div class="mono text-xs mb-2 accent-orange">// MSD</div>
-<div class="opti-bullet">Ship-from-Store für große TVs: Notkäufer können sofort mitnehmen statt zu warten.</div>
+<div class="mono text-xs mb-2 accent-orange">// MSD & Neue Wege</div>
+<div class="opti-bullet">Ship-from-Store: Groß-TVs können kaum selbst transportiert werden — Sofort-Lieferungs-Service als differenzierendes Angebot.</div>
 <div class="opti-bullet">Click & Collect als Conversion-Beschleuniger für Notkäufer.</div>
-<div class="mono text-xs mb-2 mt-3 accent-orange">// Lokales Marketing</div>
-<div class="opti-bullet">Hyperlokal Social Proof als Always-on Maßnahme: Notkäufer entscheiden schnell — lokaler Social Proof senkt die Entscheidungshürde.</div>
-</div>
-<div class="opti-block opti-dist" style="overflow-y: auto; max-height: 72vh;">
-<div class="mono text-xs mb-2 accent-pink">// Neue Distributionswege</div>
-<div class="opti-bullet">Immobilienmakler als Vertriebspartner: Beim Hauskauf Samsung-Voucher oder Trade-In-Angebote übergeben. Breites Zeitfenster, kein Wettbewerb.</div>
-<div class="opti-bullet">Telekom und Vodafone als Distributions-Partner: Samsung TVs als Bundle mit Internet und Kabel. Umzug und Neubezug als natürlicher Trigger.</div>
+<div class="opti-bullet">Own Stores mit verfügbaren Geräten und schnellen Lieferoptionen als zusätzlicher Distributionskanal.</div>
 </div>
 </div>
 
@@ -1624,35 +1612,27 @@ class: text-sm
 
 <div class="tag">// B · Analoger Raum · Finding 3</div>
 
-## Lokal ein navigierbares System schaffen.
+## Eine Kategorie- und Produktnavigation schaffen.
 
-<div class="grid grid-cols-3 gap-3 mt-3">
+<div class="grid grid-cols-2 gap-3 mt-3">
 <div class="opti-block opti-analog" style="overflow-y: auto; max-height: 72vh;">
-<div class="mono text-xs mb-2 accent-orange">// Fachhandel</div>
-<div class="opti-bullet">Einheitliches POS-Material: Premium, Mid, Budget — für jeden Käufer in 3 Sätzen navigierbar.</div>
-<div class="opti-bullet">Promoter-Schulung auf Basis der kommunikativen Übersetzungsschicht: 3 Sätze pro Kategorie.</div>
+<div class="mono text-xs mb-2 accent-orange">// Fachhandel/Buying Groups</div>
+<div class="opti-bullet">Einheitliches POS-Material: Premium, Mid, Budget — benefit-orientiert und für jeden Käufer in 3 Sätzen navigierbar.</div>
+<div class="opti-bullet">Promoter-Schulung: 3 Sätze pro Kategorie statt 30 Min. Specs.</div>
 <div class="opti-bullet">Appointment-System: QR-Code am POS — Käufer bucht Termin, selber Promoter beim Kaufbesuch, Voucher als Incentive.</div>
-<div class="opti-bullet">Demo-Content mit eigenem Receiver: zeigt Anti-Glare und Helligkeit optimal.</div>
-<div class="mono text-xs mb-2 mt-3 accent-orange">// Buying Groups</div>
-<div class="opti-bullet">Coin-System matchen: LG zahlt €30/Verkauf in 200+ Fachgeschäften. Promoter verdienen €400–500/Monat extra.</div>
+<div class="opti-bullet">Coin-System matchen: LG zahlt €30/Verkauf in 200+ Fachgeschäften — Promoter verdienen €400–500/Monat extra.</div>
 <div class="opti-bullet">Co-gebrandeter Ratgeber bei Expert.de und Euronics.de in Samsung-Kategorie-Logik.</div>
-<div class="opti-bullet">Top-100-Liste der Buying Group Stores für gezielte Betreuung.</div>
+<div class="opti-bullet">Top-100-Liste mit gewichtetem Ranking: Umsatz + Erreichbarkeit + Premiumness als Kriterien.</div>
 </div>
 <div class="opti-block opti-analog" style="overflow-y: auto; max-height: 72vh;">
-<div class="mono text-xs mb-2 accent-orange">// MSD</div>
-<div class="opti-bullet">Samsung Brand Store auf mediamarkt.de mit klarer Kategorie-Navigation: Premium, Mid, Budget.</div>
-<div class="opti-bullet">Bei OLED-Suche auf MSD steht Samsung auf Platz 5, LG auf Platz 1. Sponsored Listings schalten.</div>
-<div class="mono text-xs mb-2 mt-3 accent-orange">// Lokales Marketing</div>
+<div class="mono text-xs mb-2 accent-orange">// MSD & Neue Wege</div>
+<div class="opti-bullet">Benefit-orientierte Kategorisierung in MediaMarkt Filialen: Premium/Mid/Budget klar kommuniziert am echten POS.</div>
+<div class="opti-bullet">Bei OLED-Suche in MSD: Samsung auf Platz 5, LG auf Platz 1 — Sponsored Listings schalten.</div>
 <div class="opti-bullet">Lokale Expert-Hausmessen mit Samsung Live-Demos über One-Launch-Programm.</div>
-<div class="opti-bullet">KOOP-Messe Hannover 2027: 3.000 Teilnehmer, 200 Aussteller als Samsung Premium-Plattform.</div>
-</div>
-<div class="opti-block opti-dist" style="overflow-y: auto; max-height: 72vh;">
-<div class="mono text-xs mb-2 accent-pink">// Neue Distributionswege</div>
-<div class="opti-bullet">Coolblue als Premium-Partner: Hybrid-Modell mit Showroom-Erlebnis und nahtlosem Online-Checkout. Pilot für kohärente Samsung Premium-Experience.</div>
-<div class="opti-bullet">Drop-Shipping für Buying Groups: Händler verkaufen Premium-TVs ohne Lagerrisiko. System wird in mehr Kanälen gleichzeitig sichtbar.</div>
+<div class="opti-bullet">Coolblue als Premium-Partner: Showroom-Erlebnis + nahtloser Online-Checkout — Pilot für kohärente Samsung Premium-Experience.</div>
+<div class="opti-bullet">Drop-Shipping für Buying Groups: Händler verkaufen ohne Lagerrisiko — System in mehr Kanälen sichtbar.</div>
 </div>
 </div>
-
 ---
 class: text-sm
 ---
@@ -1814,7 +1794,7 @@ class: text-sm
   </div>
   <div class="card card-orange">
     <div class="mono mb-1 accent-orange">Das Risiko</div>
-    <div class="text-sm text-grey">Verlust von geschätzt <strong class="text-white">30–40%</strong> des stationären Premium-Absatzvolumens in Deutschland. 58% der deutschen Verbraucher suchen bei komplexen Produkten gezielt ein Fachgeschäft auf. 49% kaufen Elektronikartikel bewusst stationär (Bitkom 2024).</div>
+    <div class="text-sm text-grey">Verlust von geschätzt <strong class="text-white">398 Filialen</strong> des stationären Premium-Absatzvolumens in Deutschland. 58% der deutschen Verbraucher suchen bei komplexen Produkten gezielt ein Fachgeschäft auf. 49% kaufen Elektronikartikel bewusst stationär (Bitkom 2024).</div>
   </div>
   <div class="card" style="border-left: 3px solid var(--color-vivid-orange);">
     <div class="text-sm text-grey">Großformat-Modelle ab 75 Zoll sind beratungsintensiv und erfordern physische Präsenz — die nun wegbricht.</div>
@@ -1839,7 +1819,7 @@ class: text-sm
   <div class="card card-lime">
     <div class="mono mb-1 accent-lime">Szenario 2 · Digital · 6–18 Mo · Kritisch</div>
     <div class="text-sm font-bold mb-2">Direct-to-Consumer (D2C)</div>
-    <div class="text-xs text-grey">Samsung.com als vollwertiger Premium-Verkaufskanal. Exklusive Bundles, White-Glove-Service, Trade-in-Programme, 0%-Finanzierung, In-TV-Shopping via Samsung TV Plus.</div>
+    <div class="text-xs text-grey">Samsung.com als vollwertiger Premium-Verkaufskanal. Exklusive Bundles, White-Glove-Service, Trade-in-Programme, 0%-Finanzierung, In-TV-Shopping via Samsung TV Plus. >. eigene Samsung Stores.</div>
   </div>
   <div class="card" style="border-top: 3px solid var(--color-vivid-orange);">
     <div class="mono mb-1 accent-orange">Szenario 3 · Physisch · 12–24 Mo · Hoch</div>
