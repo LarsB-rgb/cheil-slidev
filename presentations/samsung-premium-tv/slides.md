@@ -202,6 +202,486 @@ layout: intro
 </div>
 
 ---
+layout: statement
+---
+
+<div class="tag">// Workshop-Ablauf</div>
+
+## <span class="accent-lime">10:00 — 15:00 Uhr.</span><br>Unser Zeitplan für heute.
+
+<div class="mt-5" style="max-width: 800px; margin: 1.5rem auto 0;">
+
+<div style="display: grid; grid-template-columns: 110px 1fr; gap: 0; position: relative;">
+
+  <!-- Timeline line -->
+  <div style="position: absolute; left: 108px; top: 0; bottom: 0; width: 2px; background: linear-gradient(to bottom, var(--color-neon-green), var(--color-vivid-orange), var(--color-bright-pink));"></div>
+
+  <!-- Item 1 -->
+  <div style="text-align: right; padding-right: 1.2rem; padding-top: 0.15rem; padding-bottom: 0.55rem;">
+    <div style="font-size: 0.7rem; font-weight: 700; color: var(--color-neon-green);">10:00</div>
+    <div style="font-size: 0.55rem; color: var(--color-dark-grey);">30 Min.</div>
+  </div>
+  <div style="padding-left: 1.2rem; padding-bottom: 0.55rem; position: relative;">
+    <div style="position: absolute; left: -0.3rem; top: 0.25rem; width: 10px; height: 10px; border-radius: 50%; background: var(--color-neon-green);"></div>
+    <div style="font-size: 0.75rem; font-weight: 700; color: white;">Eröffnung & Intro-Präsentation</div>
+    <div style="font-size: 0.6rem; color: var(--color-dark-grey); margin-top: 0.15rem;">Rahmensetzung, Zielsetzung und Vorgehensweise · Poster-Orientierung</div>
+  </div>
+
+  <!-- Item 2 -->
+  <div style="text-align: right; padding-right: 1.2rem; padding-top: 0.15rem; padding-bottom: 0.55rem;">
+    <div style="font-size: 0.7rem; font-weight: 700; color: var(--color-neon-green);">10:30</div>
+    <div style="font-size: 0.55rem; color: var(--color-dark-grey);">45 Min.</div>
+  </div>
+  <div style="padding-left: 1.2rem; padding-bottom: 0.55rem; position: relative;">
+    <div style="position: absolute; left: -0.3rem; top: 0.25rem; width: 10px; height: 10px; border-radius: 50%; background: var(--color-neon-green);"></div>
+    <div style="font-size: 0.75rem; font-weight: 700; color: white;">Findings aus der Omnichannel-Analyse</div>
+    <div style="font-size: 0.6rem; color: var(--color-dark-grey); margin-top: 0.15rem;">Präsentation der 3 Kern-Findings mit Diskussion · ZK1-Fokus</div>
+  </div>
+
+  <!-- Item 3 -->
+  <div style="text-align: right; padding-right: 1.2rem; padding-top: 0.15rem; padding-bottom: 0.55rem;">
+    <div style="font-size: 0.7rem; font-weight: 700; color: var(--color-neon-green);">11:15</div>
+    <div style="font-size: 0.55rem; color: var(--color-dark-grey);">45 Min.</div>
+  </div>
+  <div style="padding-left: 1.2rem; padding-bottom: 0.55rem; position: relative;">
+    <div style="position: absolute; left: -0.3rem; top: 0.25rem; width: 10px; height: 10px; border-radius: 50%; background: var(--color-neon-green);"></div>
+    <div style="font-size: 0.75rem; font-weight: 700; color: white;">Lösungsansätze im digitalen Raum</div>
+    <div style="font-size: 0.6rem; color: var(--color-dark-grey); margin-top: 0.15rem;">Website · eShop · eRetailer · Paid Ads · mit Diskussion</div>
+  </div>
+
+  <!-- Lunch -->
+  <div style="text-align: right; padding-right: 1.2rem; padding-top: 0.15rem; padding-bottom: 0.55rem;">
+    <div style="font-size: 0.7rem; font-weight: 700; color: var(--color-dark-grey);">12:00</div>
+    <div style="font-size: 0.55rem; color: var(--color-dark-grey);">30 Min.</div>
+  </div>
+  <div style="padding-left: 1.2rem; padding-bottom: 0.55rem; position: relative;">
+    <div style="position: absolute; left: -0.3rem; top: 0.25rem; width: 10px; height: 10px; border-radius: 50%; background: #333;"></div>
+    <div style="font-size: 0.75rem; font-weight: 700; color: var(--color-dark-grey);">Lunch</div>
+  </div>
+
+  <!-- Item 4 -->
+  <div style="text-align: right; padding-right: 1.2rem; padding-top: 0.15rem; padding-bottom: 0.55rem;">
+    <div style="font-size: 0.7rem; font-weight: 700; color: var(--color-vivid-orange);">12:30</div>
+    <div style="font-size: 0.55rem; color: var(--color-dark-grey);">45 Min.</div>
+  </div>
+  <div style="padding-left: 1.2rem; padding-bottom: 0.55rem; position: relative;">
+    <div style="position: absolute; left: -0.3rem; top: 0.25rem; width: 10px; height: 10px; border-radius: 50%; background: var(--color-vivid-orange);"></div>
+    <div style="font-size: 0.75rem; font-weight: 700; color: white;">Lösungsansätze im analogen Raum</div>
+    <div style="font-size: 0.6rem; color: var(--color-dark-grey); margin-top: 0.15rem;">Fachhandel · Buying Groups · MSD · Lokales Marketing · mit Diskussion</div>
+  </div>
+
+  <!-- Item 5 -->
+  <div style="text-align: right; padding-right: 1.2rem; padding-top: 0.15rem; padding-bottom: 0.55rem;">
+    <div style="font-size: 0.7rem; font-weight: 700; color: var(--color-vivid-orange);">13:15</div>
+    <div style="font-size: 0.55rem; color: var(--color-dark-grey);">45 Min.</div>
+  </div>
+  <div style="padding-left: 1.2rem; padding-bottom: 0.55rem; position: relative;">
+    <div style="position: absolute; left: -0.3rem; top: 0.25rem; width: 10px; height: 10px; border-radius: 50%; background: var(--color-vivid-orange);"></div>
+    <div style="font-size: 0.75rem; font-weight: 700; color: white;">Omnichannel Lösungsansätze</div>
+    <div style="font-size: 0.6rem; color: var(--color-dark-grey); margin-top: 0.15rem;">O2O · Ship-from-Store · Post-Purchase Ökosystem · mit Diskussion</div>
+  </div>
+
+  <!-- Item 6 -->
+  <div style="text-align: right; padding-right: 1.2rem; padding-top: 0.15rem; padding-bottom: 0.55rem;">
+    <div style="font-size: 0.7rem; font-weight: 700; color: var(--color-bright-pink);">14:00</div>
+    <div style="font-size: 0.55rem; color: var(--color-dark-grey);">45 Min.</div>
+  </div>
+  <div style="padding-left: 1.2rem; padding-bottom: 0.55rem; position: relative;">
+    <div style="position: absolute; left: -0.3rem; top: 0.25rem; width: 10px; height: 10px; border-radius: 50%; background: var(--color-bright-pink);"></div>
+    <div style="font-size: 0.75rem; font-weight: 700; color: white;">Neue Distributionsansätze</div>
+    <div style="font-size: 0.6rem; color: var(--color-dark-grey); margin-top: 0.15rem;">Szenarien · Roadmap · Neue Kanäle · mit Diskussion · ZK2/ZK3</div>
+  </div>
+
+  <!-- Item 7 -->
+  <div style="text-align: right; padding-right: 1.2rem; padding-top: 0.15rem;">
+    <div style="font-size: 0.7rem; font-weight: 700; color: var(--color-bright-pink);">14:45</div>
+    <div style="font-size: 0.55rem; color: var(--color-dark-grey);">15 Min.</div>
+  </div>
+  <div style="padding-left: 1.2rem; position: relative;">
+    <div style="position: absolute; left: -0.3rem; top: 0.25rem; width: 10px; height: 10px; border-radius: 50%; background: var(--color-bright-pink);"></div>
+    <div style="font-size: 0.75rem; font-weight: 700; color: white;">Abschluss & Ausblick</div>
+    <div style="font-size: 0.6rem; color: var(--color-dark-grey); margin-top: 0.15rem;">Zusammenfassung · offene Fragen · nächste Schritte</div>
+  </div>
+
+</div>
+</div>
+
+
+
+
+---
+
+<div class="tag mb-8">// Zielsetzung des Workshops</div>
+
+# Identifikation der wichtigsten Hebel<br>um kurzfristig den Abverkauf zu steigern<br>und langfristig die <span class="accent-lime">Marktposition zu stärken.</span>
+
+<div class="absolute bottom-8 left-0 right-0 text-center text-xs text-grey font-mono">
+Samsung Premium TV · Omnichannel Workshop · Cheil Germany 2026 · Confidential
+</div>
+
+---
+
+<div class="tag">// Ausgangslage & Kontext</div>
+
+## Die strategische<br><span class="accent-orange">Ausgangslage.</span>
+
+<div class="grid grid-cols-2 gap-8 mt-5 items-start">
+<div class="flex flex-col gap-3">
+  <div class="card card-orange">
+    <div class="mono mb-1 accent-orange">Marktdynamik</div>
+    <div class="text-sm text-grey">Der Premium-TV-Markt in Deutschland ist durch steigende Markenfragmentierung, komplexere Kaufprozesse und neue digitale Touchpoints geprägt. Wachstum entsteht nicht mehr durch Volumensteigerung allein.</div>
+  </div>
+  <div class="card card-orange">
+    <div class="mono mb-1 accent-orange">Journey-Komplexität</div>
+    <div class="text-sm text-grey">Die Buying Journey für Premium-TVs ist weder linear noch vorhersehbar: Digital und physisch, kurz aber intensiv — jede Phase wird durch ein spezifisches Kanal-Ökosystem beeinflusst.</div>
+  </div>
+  <div class="card card-orange">
+    <div class="mono mb-1 accent-orange">Forschungsgrundlage</div>
+    <div class="text-sm text-grey">Dieser Workshop nutzt eine systematisch erarbeitete, multi-methodische Forschungsgrundlage, um gemeinsam Prioritäten für eine kohärente Omnichannel-Strategie zu entwickeln.</div>
+  </div>
+</div>
+<div>
+  <div class="card card-lime">
+    <div class="mono mb-2 accent-lime">Zentrale Workshop-Frage</div>
+    <div class="text-xl font-bold text-white leading-tight">Wie stärken wir Samsungs Position an jedem relevanten Touchpoint der Buying Journey?</div>
+  </div>
+  <div class="grid grid-cols-2 gap-3 mt-3">
+    <div class="card">
+      <div class="text-3xl font-black accent-lime">5</div>
+      <div class="mono mt-1">Forschungsquellen</div>
+    </div>
+    <div class="card">
+      <div class="text-3xl font-black accent-lime">12</div>
+      <div class="mono mt-1">Touchpoints</div>
+    </div>
+    <div class="card">
+      <div class="text-3xl font-black accent-lime">6</div>
+      <div class="mono mt-1">Journey-Phasen</div>
+    </div>
+    <div class="card">
+      <div class="text-3xl font-black accent-lime">3</div>
+      <div class="mono mt-1">Zielkorridore</div>
+    </div>
+  </div>
+</div>
+</div>
+
+---
+class: text-sm
+---
+
+<div class="tag">// Die Basis</div>
+
+## Fünf Forschungsquellen.<br><span class="accent-lime">Eine gemeinsame Grundlage.</span>
+
+<div class="grid grid-cols-5 gap-3 mt-4">
+
+<div class="card card-lime" style="overflow-y: auto; max-height: 68vh;">
+  <div class="mono mb-2 accent-lime">01</div>
+  <div class="text-xs font-bold mb-2 text-white">Qualitative Interviews</div>
+  <div class="opti-bullet">Samsung Field Operations Manager Mirko Schott (Berlin-Mitte)</div>
+  <div class="opti-bullet">Promoter Interviews vor Ort</div>
+  <div class="opti-bullet">Spezialist Fachhandel (Expert)</div>
+  <div class="opti-bullet">Interne Strategiegespräche unter Beteiligung M. Wirtz</div>
+</div>
+
+<div class="card card-lime" style="overflow-y: auto; max-height: 68vh;">
+  <div class="mono mb-2 accent-lime">02</div>
+  <div class="text-xs font-bold mb-2 text-white">Quantitative Marktdaten</div>
+  <div class="opti-bullet">GfK / Cheil Zielgruppenanalyse CTV Deutschland</div>
+  <div class="opti-bullet">Wettbewerbsanalysen D2C + Retail (Samsung / LG / Sony / TCL / Hisense)</div>
+  <div class="opti-bullet">TV Trends 2005–2024</div>
+  <div class="opti-bullet">Interne Vertriebsdaten 2024/2025 Sell-out</div>
+  <div class="opti-bullet">Interne Samsung Daten E-Shop / Online-Upselling Performance</div>
+</div>
+
+<div class="card card-lime" style="overflow-y: auto; max-height: 68vh;">
+  <div class="mono mb-2 accent-lime">03</div>
+  <div class="text-xs font-bold mb-2 text-white">SEO / SEA / LLM-Analyse</div>
+  <div class="opti-bullet">Ahrefs Keyword-Analyse</div>
+  <div class="opti-bullet">Google SERP-Landscape (03/2026)</div>
+  <div class="opti-bullet">PromptInsights Analyse für LLM-Verhalten</div>
+  <div class="opti-bullet">YouTube-Analyse & Influencer-System</div>
+  <div class="opti-bullet">Social-Media-Landscape (03/2026)</div>
+</div>
+
+<div class="card card-lime" style="overflow-y: auto; max-height: 68vh;">
+  <div class="mono mb-2 accent-lime">04</div>
+  <div class="text-xs font-bold mb-2 text-white">Medien & Content-Analyse</div>
+  <div class="opti-bullet">Stiftung Warentest & Special Interest Media</div>
+  <div class="opti-bullet">ContentSquare-Daten 2025 Website-Verhalten</div>
+  <div class="opti-bullet">Samsung.com/de-Analyse</div>
+</div>
+
+<div class="card card-lime" style="overflow-y: auto; max-height: 68vh;">
+  <div class="mono mb-2 accent-lime">05</div>
+  <div class="text-xs font-bold mb-2 text-white">POS- & Kanal-Analyse</div>
+  <div class="opti-bullet">On-Site Feldforschung: Coolblue, Expert, Medimax, HiFi-Profis (Feb 2026)</div>
+  <div class="opti-bullet">MediaMarkt / Saturn / Ceconomy Live-Analyse</div>
+</div>
+
+</div>
+
+<div class="card mt-3" style="border-left: 3px solid var(--color-neon-green);">
+  <div class="text-xs text-grey">Die Ergebnisse dieser fünf Quellen wurden zusammengeführt und bilden das Fundament des großformatigen Posters, das Sie heute als Arbeitsinstrument nutzen.</div>
+</div>
+
+---
+
+<div class="tag">// Die Customer Journey</div>
+
+## Die horizontale Achse:<br><span class="accent-lime">6 Phasen der Customer Journey.</span>
+
+<div class="grid grid-cols-6 gap-2 mt-5">
+
+<div class="card card-lime">
+  <div class="mono mb-1 accent-lime">01</div>
+  <div class="text-sm font-bold mb-2">Awareness</div>
+  <div class="text-xs text-grey">Passiver Trigger: Der Kategorie-Bedarf entsteht — noch ohne aktive Absicht. Medien, Umfeld und Ereignisse prägen das Markenbild.</div>
+</div>
+
+<div class="card card-lime">
+  <div class="mono mb-1 accent-lime">02</div>
+  <div class="text-sm font-bold mb-2">Informational</div>
+  <div class="text-xs text-grey">Aktive Recherche: Der Kaufwunsch konkretisiert sich. Kanäle wie YouTube, Suchmaschinen und Testmedien werden systematisch genutzt.</div>
+</div>
+
+<div class="card card-lime">
+  <div class="mono mb-1 accent-lime">03</div>
+  <div class="text-sm font-bold mb-2">Navigational</div>
+  <div class="text-xs text-grey">Anforderungsprofil: Technologie, Größe, Marke und Budget werden definiert. Das Relevant Set entsteht.</div>
+</div>
+
+<div class="card card-orange">
+  <div class="mono mb-1 accent-orange">04</div>
+  <div class="text-sm font-bold mb-2">Commercial</div>
+  <div class="text-xs text-grey">Vergleich & Beratung: Preisvergleiche und Beratungsgespräche führen zur Vorauswahl. Der POS gewinnt an Bedeutung.</div>
+</div>
+
+<div class="card card-orange">
+  <div class="mono mb-1 accent-orange">05</div>
+  <div class="text-sm font-bold mb-2">Transactional</div>
+  <div class="text-xs text-grey">Kaufentscheidung: Das konkrete Modell wird gewählt. Verfügbarkeit, Service-Angebot und Vertrauen sind entscheidend.</div>
+</div>
+
+<div class="card card-pink">
+  <div class="mono mb-1 accent-pink">06</div>
+  <div class="text-sm font-bold mb-2">Post Purchase</div>
+  <div class="text-xs text-grey">Nach dem Kauf: Installation, Einrichtung und Ökosystem-Integration schaffen die Basis für Markenbindung und Empfehlung.</div>
+</div>
+
+</div>
+
+<div class="grid grid-cols-3 gap-3 mt-4">
+  <div class="card" style="border-left: 3px solid var(--color-neon-green);">
+    <div class="mono mb-1 accent-lime">HSP-Fokus</div>
+    <div class="text-xs text-grey">Pre-Store-Sichtbarkeit stärken. HSP kommt mit offenem Relevant Set in den Laden — Samsung muss früher präsent sein.</div>
+  </div>
+  <div class="card" style="border-left: 3px solid #00D4FF;">
+    <div class="mono mb-1 accent-cyan">DR-Fokus</div>
+    <div class="text-xs text-grey">Lücke zwischen Online-Recherche und Kaufabschluss schließen. 54% gehen im MSD-Funnel verloren.</div>
+  </div>
+  <div class="card" style="border-left: 3px solid var(--color-vivid-orange);">
+    <div class="mono mb-1 accent-orange">Kern-Erkenntnis</div>
+    <div class="text-xs text-grey">Die Journey ist weder linear noch vorhersehbar. 50–60% sind Notkäufe ohne Recherchefenster.</div>
+  </div>
+</div>
+
+---
+class: text-sm
+---
+
+<div class="tag">// Die Customer Journey</div>
+
+## Die vertikale Achse:<br><span class="accent-lime">12 Touchpoints. 5 Analyse-Ebenen.</span>
+
+<div class="grid grid-cols-2 gap-6 mt-4">
+<div>
+  <div class="mono mb-3">// 12 Touchpoints</div>
+  <div class="flex flex-col gap-2">
+    <div>
+      <div class="mono mb-1 accent-lime">Owned Channels</div>
+      <div class="flex flex-col gap-1">
+        <div class="jblock jblock-digital"><div class="jblock-label">Digital</div>SEG Webseite · CRM</div>
+      </div>
+    </div>
+    <div>
+      <div class="mono mb-1 accent-orange">Retail</div>
+      <div class="flex flex-col gap-1">
+        <div class="jblock jblock-physisch"><div class="jblock-label">Physisch & Digital</div>Retail MSD (Online & Offline) · Retail Buying Groups · Retail Online Generic (Amazon, Coolblue, Otto)</div>
+      </div>
+    </div>
+    <div>
+      <div class="mono mb-1 accent-cyan">Research</div>
+      <div class="flex flex-col gap-1">
+        <div class="jblock jblock-digital"><div class="jblock-label">Digital</div>Online Search (Google) · LLM Search (ChatGPT, Gemini, Perplexity) · Comparison / Review (idealo)</div>
+      </div>
+    </div>
+    <div>
+      <div class="mono mb-1 accent-pink">Media Consumption</div>
+      <div class="flex flex-col gap-1">
+        <div class="jblock jblock-analog"><div class="jblock-label">Analog & Digital</div>Generic Media / Social / YouTube · Special Interest Media (Stiftung Warentest) · Communities (HiFi-Forum, Reddit)</div>
+      </div>
+    </div>
+  </div>
+</div>
+<div>
+  <div class="mono mb-3">// 5 Analyse-Ebenen pro Kanal pro Phase</div>
+  <div class="flex flex-col gap-1">
+    <div style="border-left: 3px solid var(--color-neon-green); background: var(--color-anthrazite); padding: 0.4rem 0.6rem;">
+      <div style="font-size:0.6rem; font-weight:700; color:white; margin-bottom:0.15rem;">01 · Funktion des Touchpoints</div>
+      <div style="font-size:0.55rem; color:var(--color-dark-grey);">Welche Rolle spielt dieser Kanal in dieser Phase?</div>
+    </div>
+    <div style="border-left: 3px solid var(--color-neon-green); background: var(--color-anthrazite); padding: 0.4rem 0.6rem;">
+      <div style="font-size:0.6rem; font-weight:700; color:white; margin-bottom:0.15rem;">02 · Einfluss-Ranking</div>
+      <div style="font-size:0.55rem; color:var(--color-dark-grey);">Wie stark beeinflusst dieser Kanal die Entscheidungen?</div>
+    </div>
+    <div style="border-left: 3px solid var(--color-vivid-orange); background: var(--color-anthrazite); padding: 0.4rem 0.6rem;">
+      <div style="font-size:0.6rem; font-weight:700; color:white; margin-bottom:0.15rem;">03 · Pain Points & Daten</div>
+      <div style="font-size:0.55rem; color:var(--color-dark-grey);">Wo entstehen Reibung, Unsicherheit oder Abbrüche?</div>
+    </div>
+    <div style="border-left: 3px solid var(--color-vivid-orange); background: var(--color-anthrazite); padding: 0.4rem 0.6rem;">
+      <div style="font-size:0.6rem; font-weight:700; color:white; margin-bottom:0.15rem;">04 · Wettbewerbs-Analyse</div>
+      <div style="font-size:0.55rem; color:var(--color-dark-grey);">Wie positionieren sich LG, Sony, TCL in diesem Kanal?</div>
+    </div>
+    <div style="border-left: 3px solid var(--color-bright-pink); background: var(--color-anthrazite); padding: 0.4rem 0.6rem;">
+      <div style="font-size:0.6rem; font-weight:700; color:white; margin-bottom:0.15rem;">05 · Lösungen</div>
+      <div style="font-size:0.55rem; color:var(--color-dark-grey);">Welche konkreten Maßnahmen adressieren die Pain Points?</div>
+    </div>
+  </div>
+</div>
+</div>
+
+---
+class: text-sm
+---
+
+<div class="tag">// Das Poster lesen</div>
+
+## Drei Wege das Poster zu lesen.<br><span class="accent-lime">Orientierung schlägt Vollständigkeit.</span>
+
+<div class="grid grid-cols-3 gap-4 mt-5">
+
+<div class="card card-lime">
+  <div class="mono mb-2 accent-lime">Horizontal →</div>
+  <div class="text-base font-bold mb-3">Ein Kanal durch alle Phasen</div>
+  <div class="text-sm text-grey mb-3">Wähle einen Kanal (z.B. Retail MSD) und lies seine sechs Spalten von links nach rechts.</div>
+  <div class="text-xs text-white italic">Du erhältst das vollständige Bild dieses Kanals entlang der gesamten Journey.</div>
+</div>
+
+<div class="card card-orange">
+  <div class="mono mb-2 accent-orange">Vertikal ↓</div>
+  <div class="text-base font-bold mb-3">Eine Phase, alle Kanäle</div>
+  <div class="text-sm text-grey mb-3">Wähle eine Phase (z.B. Commercial) und lies alle Kanalzeilen in dieser Spalte.</div>
+  <div class="text-xs text-white italic">Du siehst, welche Kanäle in einem Moment der Journey zusammenspielen.</div>
+</div>
+
+<div class="card card-pink">
+  <div class="mono mb-2 accent-pink">Lighthouse ✦</div>
+  <div class="text-base font-bold mb-3">Zielkorridor-Projekte auf einen Blick</div>
+  <div class="text-sm text-grey mb-3">Scanne ausschließlich die Leuchtturm-Projekte unterhalb der Journey über alle Kanäle und Phasen.</div>
+  <div class="text-xs text-white italic">Schnellster Einstieg, wenn nur Handlungsoptionen als Diskussionsgrundlage dienen sollen.</div>
+</div>
+
+</div>
+
+<div class="card mt-5" style="border-left: 3px solid var(--color-neon-green);">
+  <div class="text-sm text-grey">Das Poster ist eine <strong class="text-white">Wissensquelle</strong> und kein sequenzielles Dokument. Du musst nicht jede Zelle lesen — Orientierung schlägt Vollständigkeit.</div>
+</div>
+
+---
+class: text-sm
+---
+
+<div class="tag">// Die drei Zielkorridore</div>
+
+## Drei Zielkorridore<br>als <span class="accent-lime">Arbeitsrahmen.</span>
+
+<div class="grid grid-cols-3 gap-4 mt-4">
+
+<div class="card card-lime">
+  <div class="flex items-center gap-2 mb-2">
+    <div class="text-2xl font-black accent-lime">ZK1</div>
+    <div class="mono accent-lime">Prio 1 · 1–2 Jahre</div>
+  </div>
+  <div class="text-sm font-bold mb-2">Optimierung der bestehenden Journey</div>
+  <div class="text-xs text-grey mb-3">Dieser Korridor adressiert alle Maßnahmen, die innerhalb der bestehenden Vertriebsstruktur die Conversion verbessern: Von der Pre-Store-Sichtbarkeit bis zur POS-Exzellenz.</div>
+  <div class="card" style="border-left: 3px solid var(--color-neon-green); padding: 0.5rem 0.7rem;">
+    <div class="text-xs text-white italic">Wo verlieren wir heute Kunden, die wir halten könnten?</div>
+  </div>
+</div>
+
+<div class="card card-orange">
+  <div class="flex items-center gap-2 mb-2">
+    <div class="text-2xl font-black accent-orange">ZK2</div>
+    <div class="mono accent-orange">Prio 2 · 2–3 Jahre</div>
+  </div>
+  <div class="text-sm font-bold mb-2">Erweiterung durch neue Kanäle</div>
+  <div class="text-xs text-grey mb-3">Dieser Korridor bewertet neue Distributionswege jenseits des klassischen Retail-Systems: Von Kooperationspartnern bis zu neuen physischen Kontaktpunkten.</div>
+  <div class="card" style="border-left: 3px solid var(--color-vivid-orange); padding: 0.5rem 0.7rem;">
+    <div class="text-xs text-white italic">Wo ist Samsung noch nicht präsent, aber relevant?</div>
+  </div>
+</div>
+
+<div class="card card-pink">
+  <div class="flex items-center gap-2 mb-2">
+    <div class="text-2xl font-black accent-pink">ZK3</div>
+    <div class="mono accent-pink">Prio 3 · 3+ Jahre</div>
+  </div>
+  <div class="text-sm font-bold mb-2">Neue Geschäftsmodelle</div>
+  <div class="text-xs text-grey mb-3">Dieser Korridor denkt über das klassische Einmalkauf-Modell hinaus: Service-Modelle, Subscription, Ökosystem-Monetarisierung und Cross-Selling.</div>
+  <div class="card" style="border-left: 3px solid var(--color-bright-pink); padding: 0.5rem 0.7rem;">
+    <div class="text-xs text-white italic">Welche Umsatzpotenziale existieren jenseits des reinen Geräteverkaufs?</div>
+  </div>
+</div>
+
+</div>
+
+<div class="card mt-4" style="border-top: 3px solid var(--color-neon-green);">
+  <div class="text-xs text-grey">ZK1, ZK2 und ZK3 erfordern unterschiedliche Ressourcen und Zeithorizonte. Die Aufgabe heute ist nicht die finale Entscheidung, sondern die <strong class="text-white">fundierte Sortierung von Maßnahmen nach Wirkung und Realisierbarkeit</strong>. Die drei Zielkorridore dienen dabei als Filter.</div>
+</div>
+
+---
+class: text-sm
+---
+
+<div class="tag">// Prinzipien für den Workshop</div>
+
+## Für einen produktiven Workshop.<br><span class="accent-lime">Vier Prinzipien.</span>
+
+<div class="grid grid-cols-2 gap-4 mt-4">
+
+<div class="card card-lime">
+  <div class="mono mb-1 accent-lime">01</div>
+  <div class="text-sm font-bold mb-2">Ideen vor Entscheidungen</div>
+  <div class="text-xs text-grey">Heute generieren wir Ideen und diskutieren Optionen. Strategische Entscheidungen werden in nachgelagerten Prozessen getroffen — dieser Rahmen schafft dafür die Grundlage.</div>
+</div>
+
+<div class="card card-orange">
+  <div class="mono mb-1 accent-orange">02</div>
+  <div class="text-sm font-bold mb-2">Offenheit für Neues</div>
+  <div class="text-xs text-grey">Das Poster enthält hoffentlich nicht nur Bestätigungen. Es enthält auch Überraschungen. Lasst uns gemeinsam offen reflektieren, auch wenn bekannte Annahmen herausgefordert sind.</div>
+</div>
+
+<div class="card card-orange">
+  <div class="mono mb-1 accent-orange">03</div>
+  <div class="text-sm font-bold mb-2">Fragen als Methode</div>
+  <div class="text-xs text-grey">Eine präzise Frage ist oft wertvoller als eine schnelle Antwort. Rückfragen, Präzisierungen und das Hinterfragen von Prämissen sind explizit erwünscht.</div>
+</div>
+
+<div class="card card-pink">
+  <div class="mono mb-1 accent-pink">04</div>
+  <div class="text-sm font-bold mb-2">Konkretheit als Ziel</div>
+  <div class="text-xs text-grey">Jede Maßnahme sollte einem Touchpoint, einer Zielgruppe und einem Zielkorridor zugeordnet werden können. Je anfassbarer, desto besser schon heute.</div>
+</div>
+
+</div>
+
+<div class="card mt-4" style="border-left: 3px solid var(--color-neon-green);">
+  <div class="text-sm text-grey"><strong class="text-white">Unser gemeinsames Ziel für heute:</strong> Am Ende des Workshops haben wir mehr qualifizierte Ideen als wir unmittelbar bearbeiten können. Das ist das Zeichen eines erfolgreichen Formats.</div>
+</div>
+
+---
 class: text-sm
 ---
 
@@ -819,78 +1299,78 @@ class: p-0
 <div id="hvm-slide" style="position:relative;z-index:5;display:grid;grid-template-columns:1fr 1fr 1fr;gap:0;max-width:900px;margin:0 auto;">
 
   <div>
-    <div style="text-align:center;font-size:0.45rem;letter-spacing:3px;text-transform:uppercase;color:#00b4d8;border-bottom:1px solid #00b4d8;padding:0.4rem;margin-bottom:0.8rem;">Features</div>
+    <div style="text-align:center;font-size:0.45rem;letter-spacing:3px;text-transform:uppercase;color:#00b4d8;border-bottom:1px solid #00b4d8;padding:0.4rem;margin-bottom:0.8rem;">Attribute</div>
     <div style="display:flex;flex-direction:column;align-items:center;gap:6px;padding:0 4px;" id="col-attr">
       <div class="hvm-node" style="background:#0e2a3a;border:1px solid #00b4d8;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="a1" data-connects='["c1","c2"]' data-info="&lt;b&gt;165 Hz OLED Display&lt;/b&gt; — Ultra-schnelle Bildwiederholrate eliminiert Ghosting. Jede Bewegung ist gestochen scharf.">
-        <div class="hvm-tag" style="color:#00b4d8;">Display</div>
-        <div class="hvm-title">165 Hz OLED</div>
-        <div class="hvm-desc">Anti-Ghosting · Crystal Motion</div>
+        <div style="color:#00b4d8;;font-size:8px;letter-spacing:1px;text-transform:uppercase;margin-bottom:2px;opacity:0.8;display:block;">Display</div>
+        <div style="font-size:10px;font-weight:700;color:#e8f4f8;margin-bottom:1px;display:block;">165 Hz OLED</div>
+        <div style="font-size:8px;color:#8ab4c2;line-height:1.3;display:block;">Anti-Ghosting · Crystal Motion</div>
       </div>
       <div class="hvm-node" style="background:#0e2a3a;border:1px solid #00b4d8;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="a2" data-connects='["c1","c3"]' data-info="&lt;b&gt;1ms Response Time (GtG)&lt;/b&gt; — Minimale Eingabeverzögerung für sofortige Reaktion zwischen Controller und Bild.">
-        <div class="hvm-tag" style="color:#00b4d8;">Performance</div>
-        <div class="hvm-title">1ms Response</div>
-        <div class="hvm-desc">GtG · Input Lag minimal</div>
+        <div style="color:#00b4d8;;font-size:8px;letter-spacing:1px;text-transform:uppercase;margin-bottom:2px;opacity:0.8;display:block;">Performance</div>
+        <div style="font-size:10px;font-weight:700;color:#e8f4f8;margin-bottom:1px;display:block;">1ms Response</div>
+        <div style="font-size:8px;color:#8ab4c2;line-height:1.3;display:block;">GtG · Input Lag minimal</div>
       </div>
       <div class="hvm-node" style="background:#0e2a3a;border:1px solid #00b4d8;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="a3" data-connects='["c2","c4"]' data-info="&lt;b&gt;FreeSync Premium Pro / G-Sync&lt;/b&gt; — Adaptives Sync eliminiert Screen-Tearing und Stutter für flüssiges Gameplay.">
-        <div class="hvm-tag" style="color:#00b4d8;">Sync</div>
-        <div class="hvm-title">FreeSync Pro</div>
-        <div class="hvm-desc">VRR · Tear-free</div>
+        <div style="color:#00b4d8;;font-size:8px;letter-spacing:1px;text-transform:uppercase;margin-bottom:2px;opacity:0.8;display:block;">Sync</div>
+        <div style="font-size:10px;font-weight:700;color:#e8f4f8;margin-bottom:1px;display:block;">FreeSync Pro</div>
+        <div style="font-size:8px;color:#8ab4c2;line-height:1.3;display:block;">VRR · Tear-free</div>
       </div>
       <div class="hvm-node" style="background:#0e2a3a;border:1px solid #00b4d8;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="a4" data-connects='["c3","c5"]' data-info="&lt;b&gt;AI Game Mode&lt;/b&gt; — Automatische Optimierung von Bildschärfe, HDR und Ton basierend auf dem erkannten Spielgenre.">
-        <div class="hvm-tag" style="color:#00b4d8;">KI</div>
-        <div class="hvm-title">AI Game Mode</div>
-        <div class="hvm-desc">Auto-Optimierung · Genre-KI</div>
+        <div style="color:#00b4d8;;font-size:8px;letter-spacing:1px;text-transform:uppercase;margin-bottom:2px;opacity:0.8;display:block;">KI</div>
+        <div style="font-size:10px;font-weight:700;color:#e8f4f8;margin-bottom:1px;display:block;">AI Game Mode</div>
+        <div style="font-size:8px;color:#8ab4c2;line-height:1.3;display:block;">Auto-Optimierung · Genre-KI</div>
       </div>
       <div class="hvm-node" style="background:#0e2a3a;border:1px solid #00b4d8;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="a5" data-connects='["c4","c5"]' data-info="&lt;b&gt;GameHub Ecosystem&lt;/b&gt; — Xbox Cloud, GeForce Now, Samsung Cloud nativ integriert.">
-        <div class="hvm-tag" style="color:#00b4d8;">Ökosystem</div>
-        <div class="hvm-title">GameHub</div>
-        <div class="hvm-desc">Cloud · Xbox · GeForce Now</div>
+        <div style="color:#00b4d8;;font-size:8px;letter-spacing:1px;text-transform:uppercase;margin-bottom:2px;opacity:0.8;display:block;">Ökosystem</div>
+        <div style="font-size:10px;font-weight:700;color:#e8f4f8;margin-bottom:1px;display:block;">GameHub</div>
+        <div style="font-size:8px;color:#8ab4c2;line-height:1.3;display:block;">Cloud · Xbox · GeForce Now</div>
       </div>
       <div class="hvm-node" style="background:#0e2a3a;border:1px solid #00b4d8;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="a6" data-connects='["c6","c2"]' data-info="&lt;b&gt;Gaming Hub TV&lt;/b&gt; — Dedizierte Gaming-TV-Plattform mit Game Bar, VRR, HDMI 2.1.">
-        <div class="hvm-tag" style="color:#00b4d8;">Smart TV</div>
-        <div class="hvm-title">Gaming Hub TV</div>
-        <div class="hvm-desc">4K · VRR · HDMI 2.1</div>
+        <div style="color:#00b4d8;;font-size:8px;letter-spacing:1px;text-transform:uppercase;margin-bottom:2px;opacity:0.8;display:block;">Smart TV</div>
+        <div style="font-size:10px;font-weight:700;color:#e8f4f8;margin-bottom:1px;display:block;">Gaming Hub TV</div>
+        <div style="font-size:8px;color:#8ab4c2;line-height:1.3;display:block;">4K · VRR · HDMI 2.1</div>
       </div>
       <div class="hvm-node" style="background:#0e2a3a;border:1px solid #00b4d8;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="a7" data-connects='["c6","c1"]' data-info="&lt;b&gt;Spatial Audio (Dolby Atmos)&lt;/b&gt; — 3D-Klangraum für präzise Richtungswahrnehmung.">
-        <div class="hvm-tag" style="color:#00b4d8;">Audio</div>
-        <div class="hvm-title">Spatial Audio</div>
-        <div class="hvm-desc">Dolby Atmos · 3D-Positional</div>
+        <div style="color:#00b4d8;;font-size:8px;letter-spacing:1px;text-transform:uppercase;margin-bottom:2px;opacity:0.8;display:block;">Audio</div>
+        <div style="font-size:10px;font-weight:700;color:#e8f4f8;margin-bottom:1px;display:block;">Spatial Audio</div>
+        <div style="font-size:8px;color:#8ab4c2;line-height:1.3;display:block;">Dolby Atmos · 3D-Positional</div>
       </div>
     </div>
   </div>
 
   <div>
-    <div style="text-align:center;font-size:0.45rem;letter-spacing:3px;text-transform:uppercase;color:#7b2fff;border-bottom:1px solid #7b2fff;padding:0.4rem;margin-bottom:0.8rem;">Benefits</div>
+    <div style="text-align:center;font-size:0.45rem;letter-spacing:3px;text-transform:uppercase;color:#7b2fff;border-bottom:1px solid #7b2fff;padding:0.4rem;margin-bottom:0.8rem;">Konsequenzen</div>
     <div style="display:flex;flex-direction:column;align-items:center;gap:6px;padding:0 4px;" id="col-cons">
       <div class="hvm-node" style="background:#1a1040;border:1px solid #7b2fff;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="c1" data-connects='["a1","a2","a7","v1","v2"]' data-info="&lt;b&gt;Tiefe Immersion&lt;/b&gt; — Der Spieler taucht vollständig in die Spielwelt ein; äußere Ablenkungen verschwinden.">
-        <div class="hvm-tag" style="color:#7b2fff;">Psychosozial</div>
-        <div class="hvm-title">Tiefe Immersion</div>
-        <div class="hvm-desc">Flow-Zustand · Realitätsvergessenheit</div>
+        <div style="color:#7b2fff;;font-size:8px;letter-spacing:1px;text-transform:uppercase;margin-bottom:2px;opacity:0.8;display:block;">Psychosozial</div>
+        <div style="font-size:10px;font-weight:700;color:#e8f4f8;margin-bottom:1px;display:block;">Tiefe Immersion</div>
+        <div style="font-size:8px;color:#8ab4c2;line-height:1.3;display:block;">Flow-Zustand · Realitätsvergessenheit</div>
       </div>
       <div class="hvm-node" style="background:#1a1040;border:1px solid #7b2fff;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="c2" data-connects='["a1","a3","a6","v1","v3"]' data-info="&lt;b&gt;Wettbewerbsvorteil&lt;/b&gt; — Höhere FPS und bessere Bildqualität liefern messbare Vorteile in Ranked-Matches.">
-        <div class="hvm-tag" style="color:#7b2fff;">Funktional</div>
-        <div class="hvm-title">Wettbewerbsvorteil</div>
-        <div class="hvm-desc">Mehr Wins · Rankingaufstieg</div>
+        <div style="color:#7b2fff;;font-size:8px;letter-spacing:1px;text-transform:uppercase;margin-bottom:2px;opacity:0.8;display:block;">Funktional</div>
+        <div style="font-size:10px;font-weight:700;color:#e8f4f8;margin-bottom:1px;display:block;">Wettbewerbsvorteil</div>
+        <div style="font-size:8px;color:#8ab4c2;line-height:1.3;display:block;">Mehr Wins · Rankingaufstieg</div>
       </div>
       <div class="hvm-node" style="background:#1a1040;border:1px solid #7b2fff;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="c3" data-connects='["a2","a4","v2","v4"]' data-info="&lt;b&gt;Effizienz & Zeitersparnis&lt;/b&gt; — KI und automatisierte Optimierungen reduzieren Setup-Zeit.">
-        <div class="hvm-tag" style="color:#7b2fff;">Funktional</div>
-        <div class="hvm-title">Effizienz & Zeit</div>
-        <div class="hvm-desc">Setup-frei · Mehr Spielzeit</div>
+        <div style="color:#7b2fff;;font-size:8px;letter-spacing:1px;text-transform:uppercase;margin-bottom:2px;opacity:0.8;display:block;">Funktional</div>
+        <div style="font-size:10px;font-weight:700;color:#e8f4f8;margin-bottom:1px;display:block;">Effizienz & Zeit</div>
+        <div style="font-size:8px;color:#8ab4c2;line-height:1.3;display:block;">Setup-frei · Mehr Spielzeit</div>
       </div>
       <div class="hvm-node" style="background:#1a1040;border:1px solid #7b2fff;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="c4" data-connects='["a3","a5","v3","v5"]' data-info="&lt;b&gt;Konstante Performance&lt;/b&gt; — Kein Lag, kein Throttling, keine Verbindungsabbrüche.">
-        <div class="hvm-tag" style="color:#7b2fff;">Funktional</div>
-        <div class="hvm-title">Konstante Performance</div>
-        <div class="hvm-desc">Stabil · Zuverlässig</div>
+        <div style="color:#7b2fff;;font-size:8px;letter-spacing:1px;text-transform:uppercase;margin-bottom:2px;opacity:0.8;display:block;">Funktional</div>
+        <div style="font-size:10px;font-weight:700;color:#e8f4f8;margin-bottom:1px;display:block;">Konstante Performance</div>
+        <div style="font-size:8px;color:#8ab4c2;line-height:1.3;display:block;">Stabil · Zuverlässig</div>
       </div>
       <div class="hvm-node" style="background:#1a1040;border:1px solid #7b2fff;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="c5" data-connects='["a4","a5","v4","v5"]' data-info="&lt;b&gt;Reaktivität & Kontrolle&lt;/b&gt; — Unmittelbares Feedback zwischen Eingabe und Spielreaktion.">
-        <div class="hvm-tag" style="color:#7b2fff;">Psychosozial</div>
-        <div class="hvm-title">Reaktivität & Kontrolle</div>
-        <div class="hvm-desc">Präzision · Körpergefühl</div>
+        <div style="color:#7b2fff;;font-size:8px;letter-spacing:1px;text-transform:uppercase;margin-bottom:2px;opacity:0.8;display:block;">Psychosozial</div>
+        <div style="font-size:10px;font-weight:700;color:#e8f4f8;margin-bottom:1px;display:block;">Reaktivität & Kontrolle</div>
+        <div style="font-size:8px;color:#8ab4c2;line-height:1.3;display:block;">Präzision · Körpergefühl</div>
       </div>
       <div class="hvm-node" style="background:#1a1040;border:1px solid #7b2fff;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="c6" data-connects='["a6","a7","v1","v6"]' data-info="&lt;b&gt;Soziales Erlebnis&lt;/b&gt; — Gemeinsam spielen, streamen, teilen — das Gerät wird zur sozialen Plattform.">
-        <div class="hvm-tag" style="color:#7b2fff;">Sozial</div>
-        <div class="hvm-title">Soziales Erlebnis</div>
-        <div class="hvm-desc">Co-op · Streaming · Teilen</div>
+        <div style="color:#7b2fff;;font-size:8px;letter-spacing:1px;text-transform:uppercase;margin-bottom:2px;opacity:0.8;display:block;">Sozial</div>
+        <div style="font-size:10px;font-weight:700;color:#e8f4f8;margin-bottom:1px;display:block;">Soziales Erlebnis</div>
+        <div style="font-size:8px;color:#8ab4c2;line-height:1.3;display:block;">Co-op · Streaming · Teilen</div>
       </div>
     </div>
   </div>
@@ -899,34 +1379,34 @@ class: p-0
     <div style="text-align:center;font-size:0.45rem;letter-spacing:3px;text-transform:uppercase;color:#ff6d00;border-bottom:1px solid #ff6d00;padding:0.4rem;margin-bottom:0.8rem;">Werte</div>
     <div style="display:flex;flex-direction:column;align-items:center;gap:6px;padding:0 4px;" id="col-vals">
       <div class="hvm-node" style="background:#1a0a00;border:1px solid #ff6d00;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="v1" data-connects='["c1","c2","c6"]' data-info="&lt;b&gt;Freude & Vergnügen&lt;/b&gt; — Gaming soll Spaß machen, aufheitern, positive Emotionen auslösen.">
-        <div class="hvm-tag" style="color:#ff6d00;">Hedonistisch</div>
-        <div class="hvm-title">Freude & Vergnügen</div>
-        <div class="hvm-desc">Spaß · Positive Emotionen</div>
+        <div style="color:#ff6d00;;font-size:8px;letter-spacing:1px;text-transform:uppercase;margin-bottom:2px;opacity:0.8;display:block;">Hedonistisch</div>
+        <div style="font-size:10px;font-weight:700;color:#e8f4f8;margin-bottom:1px;display:block;">Freude & Vergnügen</div>
+        <div style="font-size:8px;color:#8ab4c2;line-height:1.3;display:block;">Spaß · Positive Emotionen</div>
       </div>
       <div class="hvm-node" style="background:#1a0a00;border:1px solid #ff6d00;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="v2" data-connects='["c1","c3"]' data-info="&lt;b&gt;Selbstverwirklichung&lt;/b&gt; — Fähigkeiten ausbauen, Ziele erreichen, das eigene Potenzial ausschöpfen.">
-        <div class="hvm-tag" style="color:#ff6d00;">Terminal</div>
-        <div class="hvm-title">Selbstverwirklichung</div>
-        <div class="hvm-desc">Skills · Wachstum · Potenzial</div>
+        <div style="color:#ff6d00;;font-size:8px;letter-spacing:1px;text-transform:uppercase;margin-bottom:2px;opacity:0.8;display:block;">Terminal</div>
+        <div style="font-size:10px;font-weight:700;color:#e8f4f8;margin-bottom:1px;display:block;">Selbstverwirklichung</div>
+        <div style="font-size:8px;color:#8ab4c2;line-height:1.3;display:block;">Skills · Wachstum · Potenzial</div>
       </div>
       <div class="hvm-node" style="background:#1a0a00;border:1px solid #ff6d00;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="v3" data-connects='["c2","c4"]' data-info="&lt;b&gt;Leistung & Kompetenz&lt;/b&gt; — Als fähiger Spieler wahrgenommen werden.">
-        <div class="hvm-tag" style="color:#ff6d00;">Terminal</div>
-        <div class="hvm-title">Leistung & Kompetenz</div>
-        <div class="hvm-desc">Können · Anerkennung</div>
+        <div style="color:#ff6d00;;font-size:8px;letter-spacing:1px;text-transform:uppercase;margin-bottom:2px;opacity:0.8;display:block;">Terminal</div>
+        <div style="font-size:10px;font-weight:700;color:#e8f4f8;margin-bottom:1px;display:block;">Leistung & Kompetenz</div>
+        <div style="font-size:8px;color:#8ab4c2;line-height:1.3;display:block;">Können · Anerkennung</div>
       </div>
       <div class="hvm-node" style="background:#1a0a00;border:1px solid #ff6d00;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="v4" data-connects='["c3","c5"]' data-info="&lt;b&gt;Autonomie & Kontrolle&lt;/b&gt; — Freiheit, selbst zu entscheiden, ohne technische Beschränkungen.">
-        <div class="hvm-tag" style="color:#ff6d00;">Terminal</div>
-        <div class="hvm-title">Autonomie & Kontrolle</div>
-        <div class="hvm-desc">Freiheit · Selbstbestimmung</div>
+        <div style="color:#ff6d00;;font-size:8px;letter-spacing:1px;text-transform:uppercase;margin-bottom:2px;opacity:0.8;display:block;">Terminal</div>
+        <div style="font-size:10px;font-weight:700;color:#e8f4f8;margin-bottom:1px;display:block;">Autonomie & Kontrolle</div>
+        <div style="font-size:8px;color:#8ab4c2;line-height:1.3;display:block;">Freiheit · Selbstbestimmung</div>
       </div>
       <div class="hvm-node" style="background:#1a0a00;border:1px solid #ff6d00;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="v5" data-connects='["c4","c5"]' data-info="&lt;b&gt;Sicherheit & Vertrauen&lt;/b&gt; — Vertrauen dass die Technik im entscheidenden Moment funktioniert.">
-        <div class="hvm-tag" style="color:#ff6d00;">Terminal</div>
-        <div class="hvm-title">Sicherheit & Vertrauen</div>
-        <div class="hvm-desc">Verlässlichkeit · Stabilität</div>
+        <div style="color:#ff6d00;;font-size:8px;letter-spacing:1px;text-transform:uppercase;margin-bottom:2px;opacity:0.8;display:block;">Terminal</div>
+        <div style="font-size:10px;font-weight:700;color:#e8f4f8;margin-bottom:1px;display:block;">Sicherheit & Vertrauen</div>
+        <div style="font-size:8px;color:#8ab4c2;line-height:1.3;display:block;">Verlässlichkeit · Stabilität</div>
       </div>
       <div class="hvm-node" style="background:#1a0a00;border:1px solid #ff6d00;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="v6" data-connects='["c6"]' data-info="&lt;b&gt;Zugehörigkeit&lt;/b&gt; — Gaming als sozialer Kit: Freundschaften, Communities, geteilte Erlebnisse.">
-        <div class="hvm-tag" style="color:#ff6d00;">Sozial</div>
-        <div class="hvm-title">Zugehörigkeit</div>
-        <div class="hvm-desc">Community · Identität · Bonds</div>
+        <div style="color:#ff6d00;;font-size:8px;letter-spacing:1px;text-transform:uppercase;margin-bottom:2px;opacity:0.8;display:block;">Sozial</div>
+        <div style="font-size:10px;font-weight:700;color:#e8f4f8;margin-bottom:1px;display:block;">Zugehörigkeit</div>
+        <div style="font-size:8px;color:#8ab4c2;line-height:1.3;display:block;">Community · Identität · Bonds</div>
       </div>
     </div>
   </div>
@@ -942,11 +1422,16 @@ class: p-0
 import { onMounted } from 'vue'
 
 onMounted(() => {
-  setTimeout(() => {
+  function init() {
     const grid = document.getElementById('hvm-slide')
     const svg = document.getElementById('hvm-svg')
     const infoEl = document.getElementById('hvm-info')
     if (!grid || !svg) return
+    // Wait until grid is actually visible and has dimensions
+    if (grid.getBoundingClientRect().width === 0) {
+      setTimeout(init, 200)
+      return
+    }
 
     const nodeMap = {}
     document.querySelectorAll('.hvm-node').forEach(el => {
@@ -1049,7 +1534,8 @@ onMounted(() => {
       drawLines()
       if (activeId) highlight(activeId)
     })
-  }, 500)
+  }
+  setTimeout(init, 300)
 })
 </script>
 ---
