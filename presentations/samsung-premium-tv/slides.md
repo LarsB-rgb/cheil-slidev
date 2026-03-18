@@ -610,57 +610,80 @@ class: text-sm
 </div>
 
 ---
+layout: statement
+---
+
+<div class="tag mb-6">// Ansatzpunkte</div>
+
+# Wo wir Potenziale sehen.<br><span class="accent-lime">Konkrete Ansatzpunkte zur Diskussion.</span>
+
+<div class="grid grid-cols-4 gap-4 mt-10 text-left max-w-5xl mx-auto">
+  <div class="card card-cyan">
+    <div class="mono mb-2">A</div>
+    <div class="text-sm font-bold">Digitaler Raum</div>
+    <div class="text-xs text-grey mt-1">Website · eShop · eRetailer · Paid Ads</div>
+  </div>
+  <div class="card card-orange">
+    <div class="mono mb-2">B</div>
+    <div class="text-sm font-bold">Analoger Raum</div>
+    <div class="text-xs text-grey mt-1">Fachhandel · Buying Groups · MSD · Lokales Marketing</div>
+  </div>
+  <div class="card card-lime">
+    <div class="mono mb-2">C</div>
+    <div class="text-sm font-bold">Omnichannel / O2O</div>
+    <div class="text-xs text-grey mt-1">Online ↔ Offline · Loyalty</div>
+  </div>
+  <div class="card card-pink">
+    <div class="mono mb-2">D</div>
+    <div class="text-sm font-bold">Distribution</div>
+    <div class="text-xs text-grey mt-1">Szenarien · Roadmap · Neue Kanäle</div>
+  </div>
+</div>
+
+<div class="absolute bottom-8 left-0 right-0 text-center text-xs text-grey font-mono">
+Samsung Premium TV · Omnichannel Strategy · Cheil Germany 2026 · Confidential
+</div>
+
+---
 class: text-sm
 ---
 
-<div class="tag">// Optimierungspotenziale · Finding 1</div>
+<div class="tag">// A · Digitaler Raum · Finding 1</div>
 
-## Was kann besser werden.
-### <span class="accent-orange">Mentale Verfügbarkeit für Samsung TV aufbauen.</span>
+## Mentale Verfügbarkeit für Samsung TV aufbauen. 
 
 <div class="grid grid-cols-3 gap-3 mt-3">
-<div class="opti-block opti-digital">
-<div class="mono text-xs mb-2 accent-cyan">// Digital</div>
-<div class="opti-channel">Website</div>
+<div class="opti-block opti-digital" style="overflow-y: auto; max-height: 72vh;">
+<div class="mono text-xs mb-2 accent-cyan">// Website</div>
 <div class="opti-bullet">Kategorie "Testsieger" in Search besetzen. Samsung Newsroom rankt bereits auf Platz 5.</div>
-<div class="opti-bullet">Echtes Problem: Duplicated Content / Canonical: B2C vs. B2B Pages</div>
-<div class="opti-bullet">Longtail-Keyword-Strategie, weil bei Vergleichsseiten oft LG gewinnt -> auch für KI Suche wichtig</div>
-<div class="opti-bullet">" vs. Zoll -> Produktbenamung = Keyword</div>
-<div class="opti-bullet">Intent Match: [Größe] + Marke + Produktlinie + Features vs. [Größe] + generisch + Modell + Features -> aktuell Samsung</div>
-<div class="opti-bullet">Stabile Produktrankings + höhere CTRs/ AI: viele Rewrites durch Google -> 65" OLED 4K TV S90D -> Samsung 65 Zoll OLED TV S90D</div>
-<div class="opti-bullet">Samsung Smart TV Wikipedia Page</div>
-<div class="opti-bullet">Mega-Menü: Bildschirmgröße</div>
-<div class="opti-bullet">Anti-Glare als Kategorie: <strong>"Der einzige Premium-TV der auch am Tag funktioniert."</strong></div>
-<div class="opti-bullet">AI kuratierte YouTube Hacks</div>
-<div class="opti-bullet">Answer Type Optimization</div>
-<div class="opti-channel">eShop</div>
-<div class="opti-bullet">Post-Purchase CRM: <strong>"Ihr StiWa-Testsieger ist da — Note 1,7"</strong> direkt nach Kauf.</div>
-<div class="opti-bullet">EOL-CRM-Trigger: Geräte ab 7–8 Jahren über Samsung Members ansprechen.</div>
-<div class="opti-bullet">Saisonaler Trigger: vor EM, Olympia, Sportereignissen aktivieren.</div>
-<div class="opti-channel">Paid Ads</div>
-<div class="opti-bullet">Custom Segments auf Test-Keywords</div>
-<div class="opti-bullet">Hyperlokal: PLZ-basierte Ads mit lokalem Social Proof.</div>
+<div class="opti-bullet">Duplicated Content / Canonical lösen: B2C vs. B2B Pages.</div>
+<div class="opti-bullet">Longtail-Keyword-Strategie — auch für KI-Suche relevant, da LG bei Vergleichsseiten oft gewinnt.</div>
+<div class="opti-bullet">Produktbenamung = Keyword: "65 Zoll OLED 4K TV S90D" statt "65" OLED 4K TV S90D".</div>
+<div class="opti-bullet">Intent Match: [Größe] + Marke + Produktlinie + Features vs. generisch + Modell.</div>
+<div class="opti-bullet">Stabile Produktrankings / AI: viele Rewrites durch Google abfangen.</div>
+<div class="opti-bullet">Samsung Smart TV Wikipedia Page aufbauen.</div>
+<div class="opti-bullet">Mega-Menü: Navigation nach Bildschirmgröße.</div>
+<div class="opti-bullet">Anti-Glare als eigene Kategorie: <strong>"Der einzige Premium-TV der auch am Tag funktioniert."</strong></div>
+<div class="opti-bullet">AI-kuratierte YouTube Hacks.</div>
+<div class="opti-bullet">Answer Type Optimization für Featured Snippets.</div>
 </div>
-<div class="opti-block opti-analog">
-<div class="mono text-xs mb-2 accent-orange">// Analog</div>
-<div class="opti-channel">Fachhandel</div>
-<div class="opti-bullet">POS-Material das Anti-Glare als eigene Kategorie kommuniziert.</div>
-<div class="opti-bullet">Demo-Content mit eigenem Receiver: kuratierter 4K/8K HDR-Content.</div>
-<div class="opti-channel">Buying Groups</div>
-<div class="opti-bullet">Ratgeber bei Expert.de und Euronics.de: "Welcher Samsung TV passt zu mir?"</div>
-<div class="opti-bullet">Samsung-Technologie-Hub als Euronics-Trendblog-Beitrag.</div>
-<div class="opti-channel">MSD</div>
-<div class="opti-bullet">Brand Store mediamarkt.de mit Anti-Glare als Kernbotschaft.</div>
-<div class="opti-bullet">myMediaMarkt: Samsung als Markenpartner für 14M+ Mitglieder aktivieren.</div>
-<div class="opti-channel">Lokales Marketing</div>
-<div class="opti-bullet">Hyperlokal Social Proof: PLZ-basierte Kommunikation an Bestandskunden.</div>
-<div class="opti-bullet">Installer als lokaler Botschafter: Karte beim TV-Aufbau.</div>
+<div class="opti-block opti-digital" style="overflow-y: auto; max-height: 72vh;">
+<div class="mono text-xs mb-2 accent-cyan">// eShop</div>
+<div class="opti-bullet">Framing: Best Seller Kategorie -> Amazon, Best Value, Premium, Budget (AI Search).</div>
+<div class="opti-bullet">Above-the-fold Klarheit: „Perfekt für dunkle Räume & Filme“, „Top Bildqualität (OLED)“, „Mittelklasse Preis“ .</div>
+<div class="opti-bullet">Badges „Top Pick“, „Meistgekauft“, „Unsere Empfehlung“. -> eRetailer</div>
+<div class="opti-bullet">Situatives Priming rund um Notkäufe -> „Woran du merkst, dass dein TV zu alt ist", „Was du in 5 Minuten wissen musst, wenn du jetzt einen TV brauchst“</div>
+<div class="mono text-xs mb-2 mt-3 accent-cyan">// Paid Ads</div>
+<div class="opti-bullet">Custom Segments auf Test-/Vergleiche-Keywords aufbauen.</div>
+<div class="opti-bullet">„Top 3 Auswahl“ als Ad-Mechanik</div>
+<div class="opti-bullet">Future Situation Ads: „Der Moment, wenn dein Fernseher den Geist aufgibt“</div>
+<div class="opti-bullet">Kategorie Codes: OLED = „Wie im Kino“, Neo QLED = „Kein Blenden, selbst bei Sonne“</div>
 </div>
-<div class="opti-block opti-dist">
-<div class="mono text-xs mb-2 accent-pink">// Neue Distributionswege</div>
-<div class="opti-bullet">Möbelhäuser: The Frame in IKEA, XXXLutz, Westwing als Wohnzimmer-Element inszenieren.</div>
-<div class="opti-bullet">Architekt und Inneneinrichter als B2B-Kanal: The Frame als Designobjekt. Strukturierter Zugang fehlt heute.</div>
-<div class="opti-bullet">Energie-Kooperation: Samsung TVs im Smart-Home-Kontext. SmartThings als verbindendes Element.</div>
+<div class="opti-block opti-dist" style="overflow-y: auto; max-height: 72vh;">
+<div class="mono text-xs mb-2 accent-pink">// Kontext · Finding 1</div>
+<div class="opti-bullet" style="color: var(--color-grey);">Samsung als Marke ist bekannt — ein spezifisches Samsung TV Gerät oder eine Kategorie ist in HSPs und DRs Medienwelt nicht verankert.</div>
+<div class="opti-bullet" style="color: var(--color-grey);">Samsung kommuniziert Features. Eine navigierbare Kategorie die hängenbleibt fehlt.</div>
+<div class="opti-bullet" style="color: var(--color-grey);">Ziel: Mentale Verfügbarkeit aufbauen bevor das 14-Tage-Fenster öffnet.</div>
 </div>
 </div>
 
@@ -668,45 +691,29 @@ class: text-sm
 class: text-sm
 ---
 
-<div class="tag">// Optimierungspotenziale · Finding 2</div>
+<div class="tag">// A · Digitaler Raum · Finding 2</div>
 
-## Was kann besser werden.
-### <span class="accent-pink">Das 14-Tage-Fenster und die Notkäufer erreichen.</span>
+## Das 14-Tage-Fenster und die Notkäufer erreichen.
 
 <div class="grid grid-cols-3 gap-3 mt-3">
-<div class="opti-block opti-digital">
-<div class="mono text-xs mb-2 accent-cyan">// Digital</div>
-<div class="opti-channel">Website</div>
-<div class="opti-bullet">Upgrade-Pfad: "Was sich seit Ihrem letzten Samsung TV verändert hat."</div>
+<div class="opti-block opti-digital" style="overflow-y: auto; max-height: 72vh;">
+<div class="mono text-xs mb-2 accent-cyan">// Website</div>
+<div class="opti-bullet">Upgrade-Pfad: <strong>"Was sich seit Ihrem letzten Samsung TV verändert hat."</strong></div>
 <div class="opti-bullet">Trade-In-Rechner: Restwert des alten Geräts transparent machen.</div>
-<div class="opti-channel">eShop</div>
-<div class="opti-bullet">EOL-Trigger: "Die EM 2026 startet in 60 Tagen. Erleben Sie sie neu."</div>
-<div class="opti-bullet">Service-to-Sales-Trigger: Nach Support-Kontakt sanften Upgrade-Hinweis.</div>
-<div class="opti-bullet">Feature-Deprecation: Geräte ohne HDMI 2.1 gezielt ansprechen.</div>
-<div class="opti-channel">eRetailer</div>
-<div class="opti-bullet">Expresslieferung als Standard: Notkäufer brauchen das Gerät sofort.</div>
+<div class="mono text-xs mb-2 mt-3 accent-cyan">// eShop</div>
+<div class="opti-bullet">Auswahl begrenzen durch direkte Vergleiche: „Warum dieser besser ist als günstigere Modelle“, „Sofort verfügbar“</div>
+<div class="opti-bullet">Service-to-Sales-Trigger: nach Support-Kontakt sanften Upgrade-Hinweis kommunizieren.</div>
+</div>
+<div class="opti-block opti-digital" style="overflow-y: auto; max-height: 72vh;">
+<div class="mono text-xs mb-2 accent-cyan">// eRetailer</div>
+<div class="opti-bullet">Expresslieferung als Standard positionieren: Notkäufer brauchen das Gerät sofort.</div>
 <div class="opti-bullet">Trade-In direkt im Checkout auf amazon.de und otto.de integrieren.</div>
-<div class="opti-channel">Paid Ads</div>
-<div class="opti-bullet">Always-on Kampagne: "TV kaputt? Morgen geliefert."</div>
-<div class="opti-bullet">Retargeting: Geräte die offline gehen als Notkauf-Signal via SmartThings.</div>
+<div class="mono text-xs mb-2 mt-3 accent-cyan">// Paid Ads</div>
+<div class="opti-bullet">Notfall-Architektur: <strong>Speed (morgen geliefert), Vergleich (OLED vs. QLED), Wettbewerber (Nimm lieber Samsung)</strong></div>
 </div>
-<div class="opti-block opti-analog">
-<div class="mono text-xs mb-2 accent-orange">// Analog</div>
-<div class="opti-channel">Fachhandel</div>
-<div class="opti-bullet">Verfügbarkeitsgarantie kommunizieren. Same-Day-Installation als Exklusiv-Angebot.</div>
-<div class="opti-channel">Buying Groups</div>
-<div class="opti-bullet">Lokale Hausmessen als Touchpoint für Upgrade-Kommunikation.</div>
-<div class="opti-bullet">KOOP-Messe Hannover 2027 als Samsung Premium-Inszenierungsplattform.</div>
-<div class="opti-channel">MSD</div>
-<div class="opti-bullet">Ship-from-Store für große TVs: Notkäufer können sofort mitnehmen.</div>
-<div class="opti-bullet">Click & Collect als Conversion-Beschleuniger.</div>
-<div class="opti-channel">Lokales Marketing</div>
-<div class="opti-bullet">Hyperlokal Social Proof als Always-on Maßnahme.</div>
-</div>
-<div class="opti-block opti-dist">
-<div class="mono text-xs mb-2 accent-pink">// Neue Distributionswege</div>
-<div class="opti-bullet">Immobilienmakler als Vertriebspartner: Beim Hauskauf Samsung-Voucher übergeben. Kein Wettbewerb um diesen Moment.</div>
-<div class="opti-bullet">Telekom und Vodafone: Samsung TVs als Bundle mit Internet und Kabel. Umzug als natürlicher Trigger.</div>
+<div class="opti-block opti-dist" style="overflow-y: auto; max-height: 72vh;">
+<div class="mono text-xs mb-2 accent-pink">// Kontext · Finding 2</div>
+<div class="opti-bullet" style="color: var(--color-grey);">50–60% aller TV-Käufe sind Notkäufe. Das 14-Tage-Fenster existiert oft gar nicht.</div>
 </div>
 </div>
 
@@ -714,48 +721,35 @@ class: text-sm
 class: text-sm
 ---
 
-<div class="tag">// Optimierungspotenziale · Finding 3</div>
+<div class="tag">// A · Digitaler Raum · Finding 3</div>
 
-## Was kann besser werden.
-### <span class="accent-lime">Lokal ein navigierbares System schaffen.</span>
+## Ein navigierbares System schaffen.
 
 <div class="grid grid-cols-3 gap-3 mt-3">
-<div class="opti-block opti-digital">
-<div class="mono text-xs mb-2 accent-cyan">// Digital</div>
-<div class="opti-channel">Website</div>
-<div class="opti-bullet">Kommunikative Übersetzungsschicht: <strong>Premium, Mid, Budget</strong> — für Käufer in 3 Sätzen navigierbar.</div>
-<div class="opti-bullet">Neo QLED vs. OLED Vergleichsartikel: zentrale Kaufentscheidung beantworten.</div>
-<div class="opti-bullet">Konfigurator-Rebuild: max. 3 Fragen — Heller Raum, Heimkino oder Gaming.</div>
-<div class="opti-bullet">AI-zitierbarer Content: FAQ-Schema + JSON-LD. +30–40% AI-Zitierrate.</div>
-<div class="opti-channel">eShop</div>
-<div class="opti-bullet">0%-Finanzierung sichtbar auf Kategorie-Seiten. Monatliche Rate neben Kaufpreis.</div>
-<div class="opti-bullet">Care+ früher im Kaufprozess positionieren.</div>
-<div class="opti-channel">eRetailer</div>
-<div class="opti-bullet">idealo Retail Media: 78 Mio./Mo, 69% männl., 45–54 J. Kein TV-Hersteller aktiv.</div>
+<div class="opti-block opti-digital" style="overflow-y: auto; max-height: 72vh;">
+<div class="mono text-xs mb-2 accent-cyan">// Website</div>
+<div class="opti-bullet">Kommunikative Übersetzungsschicht mit 3 Ankern: Preis-/Leistung, Use Case, Technologie — für Käufer in 3 Sätzen navigierbar.</div>
+<div class="opti-bullet">Modellnamen-Mapping: S90D → Premium OLED, Q80C → Performance QLED, CU7170 → Essential</div>
+<div class="opti-bullet">Konfigurator-Rebuild auf Basis der Anker.</div>
+<div class="opti-bullet">AI-zitierbarer Content für Gesamtkontext der Produkte: FAQ-Schema + JSON-LD. +30–40% AI-Zitierrate.</div>
+<div class="opti-bullet">SKU-/GMINT-Konsistenz: Dasselbe Gerät heißt auf StiWa, Rtings und samsung.com identisch.</div>
+<div class="mono text-xs mb-2 mt-3 accent-cyan">// eShop</div>
+<div class="opti-bullet">0%-Finanzierung sichtbar auf Kategorie-Seiten. Monatliche Rate direkt neben dem Kaufpreis.</div>
+<div class="opti-bullet">Care+ früher im Kaufprozess positionieren — nicht erst im Checkout.</div>
+</div>
+<div class="opti-block opti-digital" style="overflow-y: auto; max-height: 72vh;">
+<div class="mono text-xs mb-2 accent-cyan">// eRetailer</div>
+<div class="opti-bullet">idealo Retail Media aktivieren: 78 Mio. Besuche/Monat, 69% männlich, 45–54 J. Kein TV-Hersteller aktiv.</div>
 <div class="opti-bullet">Perplexity Merchant Program: 10,51% DE-Marktanteil. Kein TV-Hersteller aktiv.</div>
-<div class="opti-channel">Paid Ads</div>
-<div class="opti-bullet">SEA auf Kategorie-Keywords: "bester OLED Fernseher", "Premium TV heller Raum".</div>
-<div class="opti-bullet">Affiliate-Provision auf 5–6% anheben. Samsung: 3% vs. LG: 6%.</div>
+<div class="mono text-xs mb-2 mt-3 accent-cyan">// Paid Ads</div>
+<div class="opti-bullet">SEA auf Kategorie-Keywords: "bester OLED Fernseher", "Premium TV heller Raum", "Gaming TV 4K 144Hz".</div>
+<div class="opti-bullet">Affiliate-Provision auf 5–6% anheben. Samsung zahlt aktuell 3% vs. LG 6%.</div>
 </div>
-<div class="opti-block opti-analog">
-<div class="mono text-xs mb-2 accent-orange">// Analog</div>
-<div class="opti-channel">Fachhandel</div>
-<div class="opti-bullet">Einheitliches POS-Material: Premium, Mid, Budget — 3 Sätze navigierbar.</div>
-<div class="opti-bullet">Promoter-Schulung: 3 Sätze pro Kategorie statt 30 Min. Specs.</div>
-<div class="opti-bullet">Appointment-System: QR-Code → selber Promoter → Voucher.</div>
-<div class="opti-channel">Buying Groups</div>
-<div class="opti-bullet">Coin-System matchen: LG €30/Verkauf in 200+ Geschäften.</div>
-<div class="opti-bullet">Co-gebrandeter Ratgeber bei Expert.de und Euronics.de.</div>
-<div class="opti-channel">MSD</div>
-<div class="opti-bullet">Brand Store mediamarkt.de: klare Kategorie-Navigation.</div>
-<div class="opti-bullet">Bei OLED-Suche MSD: Samsung Platz 5, LG Platz 1 → Sponsored Listings schalten.</div>
-<div class="opti-channel">Lokales Marketing</div>
-<div class="opti-bullet">KOOP-Messe Hannover 2027: 3.000 Teilnehmer als Samsung Premium-Plattform.</div>
-</div>
-<div class="opti-block opti-dist">
-<div class="mono text-xs mb-2 accent-pink">// Neue Distributionswege</div>
-<div class="opti-bullet">Coolblue als Premium-Partner: Showroom + nahtloser Online-Checkout. Pilot für kohärente Samsung Premium-Experience.</div>
-<div class="opti-bullet">Drop-Shipping für Buying Groups: Händler verkaufen ohne Lagerrisiko. System wird in mehr Kanälen sichtbar.</div>
+<div class="opti-block opti-dist" style="overflow-y: auto; max-height: 72vh;">
+<div class="mono text-xs mb-2 accent-pink">// Kontext · Finding 3</div>
+<div class="opti-bullet" style="color: var(--color-grey);">Samsung hat ein Portfolio, kein navigierbares System.</div>
+<div class="opti-bullet" style="color: var(--color-grey);">Ein Lineup das niemand in einem Satz erklären kann wird von keinem Algorithmus in einem Satz empfohlen.</div>
+<div class="opti-bullet" style="color: var(--color-grey);">Die Kategorie- und Produktnavigation sind lokal lösbar ohne HQ-Dependency.</div>
 </div>
 </div>
 
@@ -774,7 +768,7 @@ class: text-sm
     <p class="text-sm text-grey italic">Finding 1 hat gefragt: <strong class="text-white">Was bewegt Menschen wirklich wenn sie einen Premium-TV kaufen?</strong> Nicht die Specs — die Bedeutung für ihr Leben.</p>
   </div>
   <div class="flex items-center gap-3 mb-2">
-    <div class="mono w-24 shrink-0">Attribut</div>
+    <div class="mono w-24 shrink-0">Features</div>
     <div class="flex gap-2 flex-wrap">
       <span class="text-xs border border-cyan/30 bg-cyan/5 text-cyan px-2 py-1 rounded-sm">165Hz OLED</span>
       <span class="text-xs border border-cyan/30 bg-cyan/5 text-cyan px-2 py-1 rounded-sm">Gaming Hub</span>
@@ -783,18 +777,16 @@ class: text-sm
   </div>
   <div class="w-px h-3 bg-white/10 ml-14 mb-2"></div>
   <div class="flex items-center gap-3 mb-2">
-    <div class="mono w-24 shrink-0">Konsequenz</div>
+    <div class="mono w-24 shrink-0">Benefits</div>
     <div class="flex gap-2 flex-wrap">
       <span class="text-xs border border-lime/30 bg-lime/5 text-lime px-2 py-1 rounded-sm">Wettbewerbsvorteil</span>
-      <span class="text-xs border border-lime/30 bg-lime/5 text-lime px-2 py-1 rounded-sm">Tiefe Immersion</span>
       <span class="text-xs border border-lime/30 bg-lime/5 text-lime px-2 py-1 rounded-sm">Soziales Erlebnis</span>
     </div>
   </div>
   <div class="w-px h-3 bg-white/10 ml-14 mb-2"></div>
   <div class="flex items-center gap-3">
-    <div class="mono w-24 shrink-0">Wert</div>
+    <div class="mono w-24 shrink-0">Werte</div>
     <div class="flex gap-2 flex-wrap">
-      <span class="text-xs border border-pink/30 bg-pink/5 text-pink px-2 py-1 rounded-sm">Selbstverwirklichung</span>
       <span class="text-xs border border-pink/30 bg-pink/5 text-pink px-2 py-1 rounded-sm">Kompetenz</span>
       <span class="text-xs border border-pink/30 bg-pink/5 text-pink px-2 py-1 rounded-sm">Zugehörigkeit</span>
     </div>
@@ -811,6 +803,717 @@ class: text-sm
   </div>
 </div>
 </div>
+
+---
+class: p-0
+---
+
+<div style="background:#060b14;width:100%;height:100%;position:relative;overflow:hidden;padding:1.5rem 1rem 1rem;">
+
+<div style="position:absolute;inset:0;background-image:linear-gradient(rgba(0,200,255,0.04) 1px,transparent 1px),linear-gradient(90deg,rgba(0,200,255,0.04) 1px,transparent 1px);background-size:40px 40px;pointer-events:none;"></div>
+
+<div style="position:relative;z-index:10;text-align:center;margin-bottom:0.5rem;">
+  <div style="font-size:0.55rem;letter-spacing:4px;text-transform:uppercase;color:#8ab4c2;">Samsung Gaming · Hierarchical Value Map · Klicke auf einen Knoten</div>
+</div>
+
+<div id="hvm-slide" style="position:relative;z-index:5;display:grid;grid-template-columns:1fr 1fr 1fr;gap:0;max-width:900px;margin:0 auto;">
+
+  <div>
+    <div style="text-align:center;font-size:0.45rem;letter-spacing:3px;text-transform:uppercase;color:#00b4d8;border-bottom:1px solid #00b4d8;padding:0.4rem;margin-bottom:0.8rem;">Attribute</div>
+    <div style="display:flex;flex-direction:column;align-items:center;gap:0.4rem;padding:0 0.3rem;" id="col-attr">
+      <div class="hvm-node attr-node" data-id="a1" data-connects='["c1","c2"]' data-info="&lt;b&gt;165 Hz OLED Display&lt;/b&gt; — Ultra-schnelle Bildwiederholrate eliminiert Ghosting. Jede Bewegung ist gestochen scharf.">
+        <div class="hvm-tag" style="color:#00b4d8;">Display</div>
+        <div class="hvm-title">165 Hz OLED</div>
+        <div class="hvm-desc">Anti-Ghosting · Crystal Motion</div>
+      </div>
+      <div class="hvm-node attr-node" data-id="a2" data-connects='["c1","c3"]' data-info="&lt;b&gt;1ms Response Time (GtG)&lt;/b&gt; — Minimale Eingabeverzögerung für sofortige Reaktion zwischen Controller und Bild.">
+        <div class="hvm-tag" style="color:#00b4d8;">Performance</div>
+        <div class="hvm-title">1ms Response</div>
+        <div class="hvm-desc">GtG · Input Lag minimal</div>
+      </div>
+      <div class="hvm-node attr-node" data-id="a3" data-connects='["c2","c4"]' data-info="&lt;b&gt;FreeSync Premium Pro / G-Sync&lt;/b&gt; — Adaptives Sync eliminiert Screen-Tearing und Stutter für flüssiges Gameplay.">
+        <div class="hvm-tag" style="color:#00b4d8;">Sync</div>
+        <div class="hvm-title">FreeSync Pro</div>
+        <div class="hvm-desc">VRR · Tear-free</div>
+      </div>
+      <div class="hvm-node attr-node" data-id="a4" data-connects='["c3","c5"]' data-info="&lt;b&gt;AI Game Mode&lt;/b&gt; — Automatische Optimierung von Bildschärfe, HDR und Ton basierend auf dem erkannten Spielgenre.">
+        <div class="hvm-tag" style="color:#00b4d8;">KI</div>
+        <div class="hvm-title">AI Game Mode</div>
+        <div class="hvm-desc">Auto-Optimierung · Genre-KI</div>
+      </div>
+      <div class="hvm-node attr-node" data-id="a5" data-connects='["c4","c5"]' data-info="&lt;b&gt;GameHub Ecosystem&lt;/b&gt; — Xbox Cloud, GeForce Now, Samsung Cloud nativ integriert.">
+        <div class="hvm-tag" style="color:#00b4d8;">Ökosystem</div>
+        <div class="hvm-title">GameHub</div>
+        <div class="hvm-desc">Cloud · Xbox · GeForce Now</div>
+      </div>
+      <div class="hvm-node attr-node" data-id="a6" data-connects='["c6","c2"]' data-info="&lt;b&gt;Gaming Hub TV&lt;/b&gt; — Dedizierte Gaming-TV-Plattform mit Game Bar, VRR, HDMI 2.1.">
+        <div class="hvm-tag" style="color:#00b4d8;">Smart TV</div>
+        <div class="hvm-title">Gaming Hub TV</div>
+        <div class="hvm-desc">4K · VRR · HDMI 2.1</div>
+      </div>
+      <div class="hvm-node attr-node" data-id="a7" data-connects='["c6","c1"]' data-info="&lt;b&gt;Spatial Audio (Dolby Atmos)&lt;/b&gt; — 3D-Klangraum für präzise Richtungswahrnehmung.">
+        <div class="hvm-tag" style="color:#00b4d8;">Audio</div>
+        <div class="hvm-title">Spatial Audio</div>
+        <div class="hvm-desc">Dolby Atmos · 3D-Positional</div>
+      </div>
+    </div>
+  </div>
+
+  <div>
+    <div style="text-align:center;font-size:0.45rem;letter-spacing:3px;text-transform:uppercase;color:#7b2fff;border-bottom:1px solid #7b2fff;padding:0.4rem;margin-bottom:0.8rem;">Konsequenzen</div>
+    <div style="display:flex;flex-direction:column;align-items:center;gap:0.4rem;padding:0 0.3rem;" id="col-cons">
+      <div class="hvm-node cons-node" data-id="c1" data-connects='["a1","a2","a7","v1","v2"]' data-info="&lt;b&gt;Tiefe Immersion&lt;/b&gt; — Der Spieler taucht vollständig in die Spielwelt ein; äußere Ablenkungen verschwinden.">
+        <div class="hvm-tag" style="color:#7b2fff;">Psychosozial</div>
+        <div class="hvm-title">Tiefe Immersion</div>
+        <div class="hvm-desc">Flow-Zustand · Realitätsvergessenheit</div>
+      </div>
+      <div class="hvm-node cons-node" data-id="c2" data-connects='["a1","a3","a6","v1","v3"]' data-info="&lt;b&gt;Wettbewerbsvorteil&lt;/b&gt; — Höhere FPS und bessere Bildqualität liefern messbare Vorteile in Ranked-Matches.">
+        <div class="hvm-tag" style="color:#7b2fff;">Funktional</div>
+        <div class="hvm-title">Wettbewerbsvorteil</div>
+        <div class="hvm-desc">Mehr Wins · Rankingaufstieg</div>
+      </div>
+      <div class="hvm-node cons-node" data-id="c3" data-connects='["a2","a4","v2","v4"]' data-info="&lt;b&gt;Effizienz & Zeitersparnis&lt;/b&gt; — KI und automatisierte Optimierungen reduzieren Setup-Zeit.">
+        <div class="hvm-tag" style="color:#7b2fff;">Funktional</div>
+        <div class="hvm-title">Effizienz & Zeit</div>
+        <div class="hvm-desc">Setup-frei · Mehr Spielzeit</div>
+      </div>
+      <div class="hvm-node cons-node" data-id="c4" data-connects='["a3","a5","v3","v5"]' data-info="&lt;b&gt;Konstante Performance&lt;/b&gt; — Kein Lag, kein Throttling, keine Verbindungsabbrüche.">
+        <div class="hvm-tag" style="color:#7b2fff;">Funktional</div>
+        <div class="hvm-title">Konstante Performance</div>
+        <div class="hvm-desc">Stabil · Zuverlässig</div>
+      </div>
+      <div class="hvm-node cons-node" data-id="c5" data-connects='["a4","a5","v4","v5"]' data-info="&lt;b&gt;Reaktivität & Kontrolle&lt;/b&gt; — Unmittelbares Feedback zwischen Eingabe und Spielreaktion.">
+        <div class="hvm-tag" style="color:#7b2fff;">Psychosozial</div>
+        <div class="hvm-title">Reaktivität & Kontrolle</div>
+        <div class="hvm-desc">Präzision · Körpergefühl</div>
+      </div>
+      <div class="hvm-node cons-node" data-id="c6" data-connects='["a6","a7","v1","v6"]' data-info="&lt;b&gt;Soziales Erlebnis&lt;/b&gt; — Gemeinsam spielen, streamen, teilen — das Gerät wird zur sozialen Plattform.">
+        <div class="hvm-tag" style="color:#7b2fff;">Sozial</div>
+        <div class="hvm-title">Soziales Erlebnis</div>
+        <div class="hvm-desc">Co-op · Streaming · Teilen</div>
+      </div>
+    </div>
+  </div>
+
+  <div>
+    <div style="text-align:center;font-size:0.45rem;letter-spacing:3px;text-transform:uppercase;color:#ff6d00;border-bottom:1px solid #ff6d00;padding:0.4rem;margin-bottom:0.8rem;">Werte</div>
+    <div style="display:flex;flex-direction:column;align-items:center;gap:0.4rem;padding:0 0.3rem;" id="col-vals">
+      <div class="hvm-node val-node" data-id="v1" data-connects='["c1","c2","c6"]' data-info="&lt;b&gt;Freude & Vergnügen&lt;/b&gt; — Gaming soll Spaß machen, aufheitern, positive Emotionen auslösen.">
+        <div class="hvm-tag" style="color:#ff6d00;">Hedonistisch</div>
+        <div class="hvm-title">Freude & Vergnügen</div>
+        <div class="hvm-desc">Spaß · Positive Emotionen</div>
+      </div>
+      <div class="hvm-node val-node" data-id="v2" data-connects='["c1","c3"]' data-info="&lt;b&gt;Selbstverwirklichung&lt;/b&gt; — Fähigkeiten ausbauen, Ziele erreichen, das eigene Potenzial ausschöpfen.">
+        <div class="hvm-tag" style="color:#ff6d00;">Terminal</div>
+        <div class="hvm-title">Selbstverwirklichung</div>
+        <div class="hvm-desc">Skills · Wachstum · Potenzial</div>
+      </div>
+      <div class="hvm-node val-node" data-id="v3" data-connects='["c2","c4"]' data-info="&lt;b&gt;Leistung & Kompetenz&lt;/b&gt; — Als fähiger Spieler wahrgenommen werden.">
+        <div class="hvm-tag" style="color:#ff6d00;">Terminal</div>
+        <div class="hvm-title">Leistung & Kompetenz</div>
+        <div class="hvm-desc">Können · Anerkennung</div>
+      </div>
+      <div class="hvm-node val-node" data-id="v4" data-connects='["c3","c5"]' data-info="&lt;b&gt;Autonomie & Kontrolle&lt;/b&gt; — Freiheit, selbst zu entscheiden, ohne technische Beschränkungen.">
+        <div class="hvm-tag" style="color:#ff6d00;">Terminal</div>
+        <div class="hvm-title">Autonomie & Kontrolle</div>
+        <div class="hvm-desc">Freiheit · Selbstbestimmung</div>
+      </div>
+      <div class="hvm-node val-node" data-id="v5" data-connects='["c4","c5"]' data-info="&lt;b&gt;Sicherheit & Vertrauen&lt;/b&gt; — Vertrauen dass die Technik im entscheidenden Moment funktioniert.">
+        <div class="hvm-tag" style="color:#ff6d00;">Terminal</div>
+        <div class="hvm-title">Sicherheit & Vertrauen</div>
+        <div class="hvm-desc">Verlässlichkeit · Stabilität</div>
+      </div>
+      <div class="hvm-node val-node" data-id="v6" data-connects='["c6"]' data-info="&lt;b&gt;Zugehörigkeit&lt;/b&gt; — Gaming als sozialer Kit: Freundschaften, Communities, geteilte Erlebnisse.">
+        <div class="hvm-tag" style="color:#ff6d00;">Sozial</div>
+        <div class="hvm-title">Zugehörigkeit</div>
+        <div class="hvm-desc">Community · Identität · Bonds</div>
+      </div>
+    </div>
+  </div>
+
+  <svg id="hvm-svg" style="position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:2;overflow:visible;"></svg>
+</div>
+
+<div id="hvm-info" style="position:relative;z-index:10;text-align:center;margin-top:0.5rem;min-height:1.4rem;font-size:0.65rem;color:#8ab4c2;font-style:italic;">← Klicke auf einen Knoten um die Verbindungen zu sehen →</div>
+
+</div>
+
+<style scoped>
+.hvm-node {
+  position: relative;
+  width: 100%;
+  max-width: 180px;
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: 1px solid;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  text-align: center;
+}
+.attr-node { background: #0e2a3a; border-color: #00b4d8; }
+.attr-node:hover, .attr-node.active { box-shadow: 0 0 20px rgba(0,180,216,0.4); border-color: #00d4ff; transform: scale(1.04); }
+.cons-node { background: #1a1040; border-color: #7b2fff; }
+.cons-node:hover, .cons-node.active { box-shadow: 0 0 20px rgba(123,47,255,0.4); border-color: #9d4fff; transform: scale(1.04); }
+.val-node { background: #1a0a00; border-color: #ff6d00; }
+.val-node:hover, .val-node.active { box-shadow: 0 0 20px rgba(255,109,0,0.4); border-color: #ff8f40; transform: scale(1.04); }
+.hvm-tag { font-size: 0.38rem; letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 3px; opacity: 0.8; }
+.hvm-title { font-size: 0.6rem; font-weight: 700; letter-spacing: 0.5px; color: #e8f4f8; margin-bottom: 2px; }
+.hvm-desc { font-size: 0.45rem; color: #8ab4c2; line-height: 1.4; }
+.conn-line { stroke: rgba(255,255,255,0.12); stroke-width: 1.5; fill: none; transition: all 0.3s; }
+.conn-highlight-a { stroke: #00b4d8; stroke-width: 2.5; }
+.conn-highlight-c { stroke: #7b2fff; stroke-width: 2.5; }
+.conn-highlight-v { stroke: #ff6d00; stroke-width: 2.5; }
+</style>
+<script setup>
+import { onMounted } from 'vue'
+
+onMounted(() => {
+  setTimeout(() => {
+    const grid = document.getElementById('hvm-slide')
+    const svg = document.getElementById('hvm-svg')
+    const infoEl = document.getElementById('hvm-info')
+    if (!grid || !svg) return
+
+    const nodeMap = {}
+    document.querySelectorAll('.hvm-node').forEach(el => {
+      nodeMap[el.dataset.id] = {
+        el,
+        connects: JSON.parse(el.dataset.connects || '[]'),
+        info: el.dataset.info
+      }
+    })
+
+    let allLines = []
+    let activeId = null
+
+    function getScale() {
+      return grid.offsetWidth / grid.getBoundingClientRect().width
+    }
+
+    function getCenter(el) {
+      const scale = getScale()
+      const gr = grid.getBoundingClientRect()
+      const r = el.getBoundingClientRect()
+      return {
+        x: (r.left + r.width / 2 - gr.left) * scale,
+        y: (r.top + r.height / 2 - gr.top) * scale
+      }
+    }
+
+    function drawLines() {
+      svg.innerHTML = ''
+      allLines = []
+      const drawn = new Set()
+      Object.entries(nodeMap).forEach(([id, node]) => {
+        node.connects.forEach(cid => {
+          const key = [id, cid].sort().join('-')
+          if (drawn.has(key) || !nodeMap[cid]) return
+          drawn.add(key)
+          const from = getCenter(node.el)
+          const to = getCenter(nodeMap[cid].el)
+          const mx = (from.x + to.x) / 2
+          const path = document.createElementNS('http://www.w3.org/2000/svg', 'path')
+          path.setAttribute('d', `M${from.x},${from.y} C${mx},${from.y} ${mx},${to.y} ${to.x},${to.y}`)
+          path.style.stroke = 'rgba(255,255,255,0.15)'
+          path.style.strokeWidth = '1.5'
+          path.style.fill = 'none'
+          path.style.transition = 'all 0.3s'
+          path.style.opacity = '1'
+          path.dataset.from = id
+          path.dataset.to = cid
+          svg.appendChild(path)
+          allLines.push({ el: path, from: id, to: cid })
+        })
+      })
+    }
+
+    function resetLines() {
+      allLines.forEach(l => {
+        l.el.style.stroke = 'rgba(255,255,255,0.15)'
+        l.el.style.strokeWidth = '1.5'
+        l.el.style.opacity = '1'
+      })
+    }
+
+    function highlight(id) {
+      if (activeId === id) {
+        activeId = null
+        document.querySelectorAll('.hvm-node').forEach(n => n.classList.remove('active'))
+        resetLines()
+        infoEl.innerHTML = '← Klicke auf einen Knoten um die Verbindungen zu sehen →'
+        return
+      }
+      activeId = id
+      const node = nodeMap[id]
+      document.querySelectorAll('.hvm-node').forEach(n => n.classList.remove('active'))
+      node.el.classList.add('active')
+
+      const colorMap = { a: '#00b4d8', c: '#7b2fff', v: '#ff6d00' }
+
+      allLines.forEach(l => {
+        if (l.from === id || l.to === id) {
+          const srcType = l.from.startsWith('a') ? 'a' : l.from.startsWith('c') ? 'c' : 'v'
+          l.el.style.stroke = colorMap[srcType]
+          l.el.style.strokeWidth = '2.5'
+          l.el.style.opacity = '1'
+        } else {
+          l.el.style.stroke = 'rgba(255,255,255,0.05)'
+          l.el.style.strokeWidth = '1'
+          l.el.style.opacity = '0.3'
+        }
+      })
+
+      infoEl.innerHTML = (node.info || '').replace(/&lt;b&gt;/g,'<b>').replace(/&lt;\/b&gt;/g,'</b>')
+    }
+
+    document.querySelectorAll('.hvm-node').forEach(el => {
+      el.addEventListener('click', () => highlight(el.dataset.id))
+    })
+
+    drawLines()
+    window.addEventListener('resize', () => {
+      drawLines()
+      if (activeId) highlight(activeId)
+    })
+  }, 500)
+})
+</script>
+---
+class: text-sm
+---
+
+<div class="tag">// B · Analoger Raum · Finding 1</div>
+
+## Mentale Verfügbarkeit für Samsung TV aufbauen.
+
+<div class="grid grid-cols-3 gap-3 mt-3">
+<div class="opti-block opti-analog" style="overflow-y: auto; max-height: 72vh;">
+<div class="mono text-xs mb-2 accent-orange">// Fachhandel</div>
+<div class="opti-bullet">POS-Material das Anti-Glare als eigene Kategorie kommuniziert: "Der beste TV für helle Räume."</div>
+<div class="opti-bullet">Demo-Content mit eigenem Receiver: kuratierter 4K/8K HDR-Content statt gemeinsamer Antennen-Receiver.</div>
+<div class="mono text-xs mb-2 mt-3 accent-orange">// Buying Groups</div>
+<div class="opti-bullet">Ratgeber bei Expert.de und Euronics.de: <strong>"Welcher Samsung TV passt zu mir?"</strong> als co-gebrandeter Content.</div>
+<div class="opti-bullet">Samsung-Technologie-Hub als Euronics-Trendblog-Beitrag: Anti-Glare, Helligkeit und SmartThings erklärt.</div>
+</div>
+<div class="opti-block opti-analog" style="overflow-y: auto; max-height: 72vh;">
+<div class="mono text-xs mb-2 accent-orange">// MSD</div>
+<div class="opti-bullet">Samsung Brand Store auf mediamarkt.de mit TV-spezifischem Storytelling und Anti-Glare als Kernbotschaft.</div>
+<div class="opti-bullet">myMediaMarkt-Integration: Samsung als Markenpartner für 14M+ Mitglieder aktivieren.</div>
+<div class="mono text-xs mb-2 mt-3 accent-orange">// Lokales Marketing</div>
+<div class="opti-bullet">Hyperlokal Social Proof: PLZ-basierte Kommunikation an bestehende Samsung-Besitzer. <em>"In Ihrem Viertel entscheiden sich immer mehr für Samsung OLED."</em></div>
+<div class="opti-bullet">Installer als lokaler Botschafter: Karte beim TV-Aufbau mit lokalem Social Proof.</div>
+<div class="opti-bullet">Neubaugebiete als Zielgruppe: Kooperation mit Immobilienmaklern und Hausverwaltungen.</div>
+</div>
+<div class="opti-block opti-dist" style="overflow-y: auto; max-height: 72vh;">
+<div class="mono text-xs mb-2 accent-pink">// Neue Distributionswege</div>
+<div class="opti-bullet">Möbelhäuser: The Frame in IKEA, XXXLutz, Westwing als Wohnzimmer-Element inszenieren.</div>
+<div class="opti-bullet">Architekt und Inneneinrichter als B2B-Kanal: The Frame als Designobjekt. Strukturierter Zugang fehlt heute komplett.</div>
+<div class="opti-bullet">Energie-Kooperation: Samsung TVs im Kontext von Smart Home und Energieeffizienz. SmartThings als verbindendes Element.</div>
+</div>
+</div>
+
+---
+class: text-sm
+---
+
+<div class="tag">// B · Analoger Raum · Finding 2</div>
+
+## Das 14-Tage-Fenster und die Notkäufer erreichen.
+
+<div class="grid grid-cols-3 gap-3 mt-3">
+<div class="opti-block opti-analog" style="overflow-y: auto; max-height: 72vh;">
+<div class="mono text-xs mb-2 accent-orange">// Fachhandel</div>
+<div class="opti-bullet">Verfügbarkeitsgarantie kommunizieren: Notkäufer brauchen Sicherheit dass das Gerät sofort verfügbar ist.</div>
+<div class="opti-bullet">Express-Lieferung und Same-Day-Installation als Fachhandel-exklusives Angebot.</div>
+<div class="mono text-xs mb-2 mt-3 accent-orange">// Buying Groups</div>
+<div class="opti-bullet">Lokale Hausmessen von Expert und Euronics als Touchpoint für Upgrade-Kommunikation nutzen.</div>
+<div class="opti-bullet">KOOP-Messe Hannover 2027 als Samsung Premium-Inszenierungsplattform für Upgrade-Kampagne.</div>
+</div>
+<div class="opti-block opti-analog" style="overflow-y: auto; max-height: 72vh;">
+<div class="mono text-xs mb-2 accent-orange">// MSD</div>
+<div class="opti-bullet">Ship-from-Store für große TVs: Notkäufer können sofort mitnehmen statt zu warten.</div>
+<div class="opti-bullet">Click & Collect als Conversion-Beschleuniger für Notkäufer.</div>
+<div class="mono text-xs mb-2 mt-3 accent-orange">// Lokales Marketing</div>
+<div class="opti-bullet">Hyperlokal Social Proof als Always-on Maßnahme: Notkäufer entscheiden schnell — lokaler Social Proof senkt die Entscheidungshürde.</div>
+</div>
+<div class="opti-block opti-dist" style="overflow-y: auto; max-height: 72vh;">
+<div class="mono text-xs mb-2 accent-pink">// Neue Distributionswege</div>
+<div class="opti-bullet">Immobilienmakler als Vertriebspartner: Beim Hauskauf Samsung-Voucher oder Trade-In-Angebote übergeben. Breites Zeitfenster, kein Wettbewerb.</div>
+<div class="opti-bullet">Telekom und Vodafone als Distributions-Partner: Samsung TVs als Bundle mit Internet und Kabel. Umzug und Neubezug als natürlicher Trigger.</div>
+</div>
+</div>
+
+---
+class: text-sm
+---
+
+<div class="tag">// B · Analoger Raum · Finding 3</div>
+
+## Lokal ein navigierbares System schaffen.
+
+<div class="grid grid-cols-3 gap-3 mt-3">
+<div class="opti-block opti-analog" style="overflow-y: auto; max-height: 72vh;">
+<div class="mono text-xs mb-2 accent-orange">// Fachhandel</div>
+<div class="opti-bullet">Einheitliches POS-Material: Premium, Mid, Budget — für jeden Käufer in 3 Sätzen navigierbar.</div>
+<div class="opti-bullet">Promoter-Schulung auf Basis der kommunikativen Übersetzungsschicht: 3 Sätze pro Kategorie.</div>
+<div class="opti-bullet">Appointment-System: QR-Code am POS — Käufer bucht Termin, selber Promoter beim Kaufbesuch, Voucher als Incentive.</div>
+<div class="opti-bullet">Demo-Content mit eigenem Receiver: zeigt Anti-Glare und Helligkeit optimal.</div>
+<div class="mono text-xs mb-2 mt-3 accent-orange">// Buying Groups</div>
+<div class="opti-bullet">Coin-System matchen: LG zahlt €30/Verkauf in 200+ Fachgeschäften. Promoter verdienen €400–500/Monat extra.</div>
+<div class="opti-bullet">Co-gebrandeter Ratgeber bei Expert.de und Euronics.de in Samsung-Kategorie-Logik.</div>
+<div class="opti-bullet">Top-100-Liste der Buying Group Stores für gezielte Betreuung.</div>
+</div>
+<div class="opti-block opti-analog" style="overflow-y: auto; max-height: 72vh;">
+<div class="mono text-xs mb-2 accent-orange">// MSD</div>
+<div class="opti-bullet">Samsung Brand Store auf mediamarkt.de mit klarer Kategorie-Navigation: Premium, Mid, Budget.</div>
+<div class="opti-bullet">Bei OLED-Suche auf MSD steht Samsung auf Platz 5, LG auf Platz 1. Sponsored Listings schalten.</div>
+<div class="mono text-xs mb-2 mt-3 accent-orange">// Lokales Marketing</div>
+<div class="opti-bullet">Lokale Expert-Hausmessen mit Samsung Live-Demos über One-Launch-Programm.</div>
+<div class="opti-bullet">KOOP-Messe Hannover 2027: 3.000 Teilnehmer, 200 Aussteller als Samsung Premium-Plattform.</div>
+</div>
+<div class="opti-block opti-dist" style="overflow-y: auto; max-height: 72vh;">
+<div class="mono text-xs mb-2 accent-pink">// Neue Distributionswege</div>
+<div class="opti-bullet">Coolblue als Premium-Partner: Hybrid-Modell mit Showroom-Erlebnis und nahtlosem Online-Checkout. Pilot für kohärente Samsung Premium-Experience.</div>
+<div class="opti-bullet">Drop-Shipping für Buying Groups: Händler verkaufen Premium-TVs ohne Lagerrisiko. System wird in mehr Kanälen gleichzeitig sichtbar.</div>
+</div>
+</div>
+
+---
+class: text-sm
+---
+
+<div class="tag">// C · Omnichannel / O2O · Online → Offline</div>
+
+## <span class="accent-lime">Online trifft Offline.</span> Der Händler als verlängerter Arm der digitalen Journey.
+
+<div class="grid grid-cols-2 gap-4 mt-4">
+<div>
+<div class="card card-lime mb-3">
+  <div class="mono mb-1 accent-lime">Samsung.com als Retail-Brücke</div>
+  <div class="text-xs text-grey mb-2">Online → Offline</div>
+  <div class="opti-bullet">Produktseiten mit erweitertem Händler-Modul: nächstgelegener Fachhändler für das entsprechende Gerät sichtbar.</div>
+  <div class="opti-bullet">Verbesserter Konfigurator: Anforderungen definieren → Ergebnis als QR-Code → Promoter am POS scannt Beratungszettel.</div>
+  <div class="opti-bullet">Konfigurationsergebnis per E-Mail als Beratungsvorbereitung versenden → CRM-Einstieg.</div>
+</div>
+<div class="card card-orange">
+  <div class="mono mb-1 accent-orange">CRM-gestützte Lead-Qualifizierung</div>
+  <div class="text-xs text-grey mb-2">Online ↔ Offline</div>
+  <div class="opti-bullet">Bestandskunden mit 4–6 Jahre altem Gerät über SmartThings-Daten identifizieren → Upgrade-Pfad zurück in den Handel.</div>
+  <div class="opti-bullet">Galaxy-Nutzer ohne Samsung-TV über Samsung Members App ansprechen: Ökosystem-Vorteil + Händler-Voucher.</div>
+</div>
+</div>
+<div>
+<div class="card" style="border-top: 3px solid var(--color-neon-green);">
+  <div class="mono mb-2">Warum das jetzt wichtig ist</div>
+  <div class="text-sm text-grey leading-relaxed">Die digitale Journey endet heute oft vor dem Store. Kunden kommen mit offener Vorstellung — kein Samsung TV als mentalen Anker. Die Retail-Brücke schließt diesen Gap: Samsung.com führt nicht mehr nur zur Kaufentscheidung, sondern direkt zum Händler-Erlebnis.</div>
+</div>
+<div class="card mt-3" style="border-top: 3px solid var(--color-vivid-orange);">
+  <div class="mono mb-2">Messbare Hebel</div>
+  <div class="text-sm text-grey">Händler-Modul Klickrate · QR-Code Scans am POS · CRM-Einstieg via Konfigurator · Voucher-Einlösequote · Conversion Rate Beratungszettel → Kauf</div>
+</div>
+</div>
+</div>
+
+---
+class: text-sm
+---
+
+<div class="tag">// C · Omnichannel / O2O · Offline → Online → Offline</div>
+
+## <span class="accent-lime">Physische Erlebnisse.</span> Außerhalb des CE-Handels — digital weitergeführt.
+
+<div class="grid grid-cols-2 gap-4 mt-4">
+<div>
+<div class="card card-lime mb-3">
+  <div class="mono mb-1 accent-lime">Showroom & Experience Hubs</div>
+  <div class="text-xs text-grey mb-2">Offline → Online → Offline</div>
+  <div class="opti-bullet">Kuratierte Premium-TV-Installationen in Telekom- und Vodafone-Stores als Experience-Fläche → Landingpage mit Händlersuche.</div>
+  <div class="opti-bullet">Pop-up Home Cinema Lounge im Eingangsbereich von Möbelhäusern — online buchbar für Gaming Sessions oder private Filmnacht.</div>
+</div>
+<div class="card card-orange">
+  <div class="mono mb-1 accent-orange">Ship-from-Store & Click & Collect</div>
+  <div class="text-xs text-grey mb-2">Online ↔ Offline</div>
+  <div class="opti-bullet">Reserve-and-Collect: online reservieren → innerhalb weniger Stunden beim Händler abholen oder lokal geliefert bekommen — mit SmartThings-Ersteinrichtung vor Ort.</div>
+  <div class="opti-bullet">Vor Großereignissen: <strong>"Heute bestellt, heute geschaut"</strong> — Champions League, Olympia als Anlass.</div>
+  <div class="opti-bullet">Stationäre Händler liefern aus Store-Bestand mit Premium-Service-Bundle: Wandmontage + Ersteinrichtung. Nur Händler mit zertifiziertem Service-Level werden bevorzugt online angezeigt.</div>
+</div>
+</div>
+<div>
+<div class="card" style="border-top: 3px solid var(--color-neon-green);">
+  <div class="mono mb-2">Das strukturelle Prinzip</div>
+  <div class="text-sm text-grey leading-relaxed">Premium-TVs brauchen physische Erfahrung — Bild, Ton und Größe müssen erlebt werden. Die Frage ist nicht ob, sondern wo dieses Erlebnis stattfindet. Wenn CE-Handel wegbricht: neue Räume schaffen die Samsung kontrolliert und kuratiert.</div>
+</div>
+<div class="card mt-3" style="border-top: 3px solid var(--color-vivid-orange);">
+  <div class="mono mb-2">Pilotmärkte</div>
+  <div class="text-sm text-grey">Berlin · München · Hamburg als erste Experience Hub Standorte. Telekom-Partnerschaft als schnellster Einstieg — 500+ Stores, hohe Kundenfrequenz, Smart Home-Affinität bereits vorhanden.</div>
+</div>
+</div>
+</div>
+
+---
+class: text-sm
+---
+
+<div class="tag">// C · Omnichannel / O2O · Online → Loyalty</div>
+
+## <span class="accent-lime">Nach dem Kauf beginnt die Bindung.</span> Aus dem Einmalkauf wird ein dauerhafter Kontakt.
+
+<div class="grid grid-cols-2 gap-4 mt-4">
+<div>
+<div class="card card-lime mb-3">
+  <div class="mono mb-1 accent-lime">Drop-Shipping für Fachhandel</div>
+  <div class="text-xs text-grey mb-2">Online → Offline</div>
+  <div class="opti-bullet">Whitelabel-Shopmodul für Recherche- und Consideration-Touchpoints: Foren, Special Interest Medien — Online-Kauf mit persönlicher Beratung verbinden.</div>
+  <div class="opti-bullet">Händler verkauft das gesamte Premium-Sortiment ohne Lagerrisiko — Samsung liefert direkt.</div>
+</div>
+<div class="card card-orange">
+  <div class="mono mb-1 accent-orange">Post-Purchase Ökosystem-Brücke</div>
+  <div class="text-xs text-grey mb-2">Offline → Online → Loyalty</div>
+  <div class="opti-bullet">TV-Installation als strukturierter Ökosystem-Einstieg: geführter Onboarding-Flow aktiviert SmartThings, legt Samsung-Account an, hält Kontakt zum beratenden Fachhändler aufrecht.</div>
+  <div class="opti-bullet">Dedizierter digitaler Ansprechpartner für die ersten 30 Tage nach dem Kauf.</div>
+  <div class="opti-bullet">Post-Purchase-CRM mit 3 Hebeln: Zubehör nach Kauf → Ökosystem-Vertiefung nach 6 Monaten → Upgrade-Impuls nach 4–5 Jahren.</div>
+  <div class="opti-bullet">Erhöhter Samsung Members Status für TV-Käufer: Prioritäts-Service + jährliches Kalibrierungs-Angebot.</div>
+</div>
+</div>
+<div>
+<div class="card" style="border-top: 3px solid var(--color-neon-green);">
+  <div class="mono mb-2">Der Flywheel-Effekt</div>
+  <div class="text-sm text-grey leading-relaxed">Jeder TV-Kauf ist der Einstieg ins Samsung-Ökosystem. SmartThings verbindet TV, Smartphone, Haushaltsgeräte. Wer das Ökosystem bewohnt wechselt beim nächsten Kauf seltener die Marke. Das ist der strukturelle Unterschied zwischen 40% Churn und echter Loyalty.</div>
+</div>
+<div class="card mt-3" style="border-top: 3px solid var(--color-vivid-orange);">
+  <div class="mono mb-2">KPIs</div>
+  <div class="text-sm text-grey">SmartThings-Aktivierungsrate · Samsung Account Registrierungen · Ökosystem-Produkte pro Haushalt · Churn-Rate beim Ersatzkauf · NPS nach 30 Tagen</div>
+</div>
+</div>
+</div>
+
+---
+
+<div class="tag">// D · Distribution · Kontext</div>
+
+<div class="grid grid-cols-2 gap-12 h-full items-center">
+<div>
+  <h2>JD.com übernimmt MediaMarkt.<br><span class="accent-orange">Ein Erdbeben für den Premium-TV-Markt.</span></h2>
+  <p class="text-grey mt-4 text-sm">Im Dezember 2025 sichert sich JD.com rund 85% der Ceconomy-Anteile für 2,2 Mrd. Euro. Das erklärte Ziel: 1.000 chinesische Marken exklusiv in Europa etablieren. TVs über 75 Zoll werden nicht mehr stationär gelistet.</p>
+</div>
+<div class="flex flex-col gap-3">
+  <div class="card card-orange">
+    <div class="mono mb-1 accent-orange">01 · Verlust von Sichtbarkeit</div>
+    <div class="text-sm text-grey">Physische Präsenz in über 1.000 Filialen bricht weg. Impulskäufe und Markenwahrnehmung reduzieren sich drastisch.</div>
+  </div>
+  <div class="card card-orange">
+    <div class="mono mb-1 accent-orange">02 · Verlust von Beratungsqualität</div>
+    <div class="text-sm text-grey">Samsung verliert die Beratungshoheit. Verkäufer werden incentiviert, chinesische Eigenmarken zu pushen.</div>
+  </div>
+  <div class="card card-orange">
+    <div class="mono mb-1 accent-orange">03 · Verlust von Großformat-Präsenz</div>
+    <div class="text-sm text-grey">TVs über 75 Zoll aus dem stationären Handel verbannt. Das margenstarke Premium-Segment verliert seinen Showroom.</div>
+  </div>
+  <div class="card" style="border-left: 3px solid var(--color-neon-green);">
+    <div class="text-sm text-grey italic"><strong class="text-white">Die Chance:</strong> Neuerfindung des Vertriebs — weg von der Abhängigkeit eines Mega-Retailers hin zu einer resilienten Multi-Channel-Strategie.</div>
+  </div>
+</div>
+</div>
+
+---
+
+<div class="tag">// D · Distribution · Marktposition</div>
+
+<div class="grid grid-cols-2 gap-12 h-full items-center">
+<div>
+  <h2>Samsung TV: Marktführer<br>unter Druck.<br><span class="accent-orange">50% des Premium-Segments in Gefahr.</span></h2>
+  <p class="text-grey mt-4 text-sm">Samsung ist seit 20 Jahren globaler TV-Marktführer. Im Premium-Segment ist die Dominanz besonders stark — und die Verluste durch die MediaMarkt-Disruption besonders schmerzhaft.</p>
+</div>
+<div class="flex flex-col gap-4">
+  <div class="grid grid-cols-2 gap-3">
+    <div class="card card-lime">
+      <div class="mono mb-1">Globaler Marktanteil</div>
+      <div class="text-4xl font-black accent-lime">29,1%</div>
+      <div class="text-xs text-grey mt-1">Samsung TV global, 2025</div>
+    </div>
+    <div class="card card-lime">
+      <div class="mono mb-1">Premium-Segment</div>
+      <div class="text-4xl font-black accent-lime">54,3%</div>
+      <div class="text-xs text-grey mt-1">Marktanteil über 2.500 USD</div>
+    </div>
+  </div>
+  <div class="card card-orange">
+    <div class="mono mb-1 accent-orange">Das Risiko</div>
+    <div class="text-sm text-grey">Verlust von geschätzt <strong class="text-white">30–40%</strong> des stationären Premium-Absatzvolumens in Deutschland. 58% der deutschen Verbraucher suchen bei komplexen Produkten gezielt ein Fachgeschäft auf. 49% kaufen Elektronikartikel bewusst stationär (Bitkom 2024).</div>
+  </div>
+  <div class="card" style="border-left: 3px solid var(--color-vivid-orange);">
+    <div class="text-sm text-grey">Großformat-Modelle ab 75 Zoll sind beratungsintensiv und erfordern physische Präsenz — die nun wegbricht.</div>
+  </div>
+</div>
+</div>
+
+---
+class: text-sm
+---
+
+<div class="tag">// D · Distribution · Szenarien</div>
+
+## Sechs Szenarien für eine resiliente<br><span class="accent-lime">Multi-Channel-Strategie.</span>
+
+<div class="grid grid-cols-3 gap-3 mt-4">
+  <div class="card card-lime">
+    <div class="mono mb-1 accent-lime">Szenario 1 · Physisch · 0–12 Mo · Kritisch</div>
+    <div class="text-sm font-bold mb-2">Fachhandel stärken</div>
+    <div class="text-xs text-grey">Expert & Euronics als neue Premium-TV-Bühne. Dediziertes "Samsung TV Premium Partner"-Programm: Schulungen, Erlebnis-Installationen 85"+, exklusive Produktlinien, erhöhte Margen, Co-Op-Marketing.</div>
+  </div>
+  <div class="card card-lime">
+    <div class="mono mb-1 accent-lime">Szenario 2 · Digital · 6–18 Mo · Kritisch</div>
+    <div class="text-sm font-bold mb-2">Direct-to-Consumer (D2C)</div>
+    <div class="text-xs text-grey">Samsung.com als vollwertiger Premium-Verkaufskanal. Exklusive Bundles, White-Glove-Service, Trade-in-Programme, 0%-Finanzierung, In-TV-Shopping via Samsung TV Plus.</div>
+  </div>
+  <div class="card" style="border-top: 3px solid var(--color-vivid-orange);">
+    <div class="mono mb-1 accent-orange">Szenario 3 · Physisch · 12–24 Mo · Hoch</div>
+    <div class="text-sm font-bold mb-2">Neue physische Kanäle</div>
+    <div class="text-xs text-grey">XXXLutz / Höffner: TV in Wohnzimmer-Inszenierungen. Galeria / Breuninger: Premium-Elektronikabteilung. IKEA: SmartThings-Integration. Samsung Experience Centers in Berlin, München, Hamburg.</div>
+  </div>
+  <div class="card" style="border-top: 3px solid var(--color-vivid-orange);">
+    <div class="mono mb-1 accent-orange">Szenario 4 · Hybrid · 6–18 Mo · Hoch</div>
+    <div class="text-sm font-bold mb-2">Telekommunikation & Bundles</div>
+    <div class="text-xs text-grey">Telekom (500+ Stores): Smart Home + TV Bundle, Glasfaser-Upgrade. Vodafone / O2 (800+ Stores): GigaTV + Samsung Premium Bundle. Umzug als natürlicher Trigger.</div>
+  </div>
+  <div class="card" style="border-top: 3px solid #555;">
+    <div class="mono mb-1" style="color:#777;">Szenario 5 · B2B · 0–12 Mo · Mittel-Hoch</div>
+    <div class="text-sm font-bold mb-2">B2B & Hospitality</div>
+    <div class="text-xs text-grey">Hotels, Restaurants, Büros als Absatzkanal für Premium-Großbildschirme. MicroLED und The Wall als B2B-Produkte. HiFi-Fachhandel für audiofile Heimkino-Enthusiasten.</div>
+  </div>
+  <div class="card" style="border-top: 3px solid #555;">
+    <div class="mono mb-1" style="color:#777;">Szenario 6 · Digital · 12–36 Mo · Hoch</div>
+    <div class="text-sm font-bold mb-2">Digitale Ökosysteme</div>
+    <div class="text-xs text-grey">Amazon Premium Store, Instagram/Pinterest Shopping (The Frame), TikTok Shop, Gaming-Plattformen (Steam, Xbox), Architekt-Plattformen (Houzz). Samsung TV Plus als Commerce-Kanal.</div>
+  </div>
+</div>
+
+---
+class: text-sm
+---
+
+<div class="tag">// D · Distribution · Szenarien im Detail</div>
+
+## Szenarien 1 + 2:<br><span class="accent-lime">Fachhandel stärken & D2C ausbauen.</span>
+
+<div class="grid grid-cols-2 gap-4 mt-4">
+<div>
+<div class="card card-lime mb-3">
+  <div class="mono mb-1 accent-lime">Szenario 1 · Fachhandel stärken</div>
+  <div class="opti-bullet">Expert (400+ Standorte) und Euronics (1.200+ Standorte) sind die natürlichen Gewinner der MediaMarkt-Disruption.</div>
+  <div class="opti-bullet">Dedizierte Schulungsprogramme für Verkäufer — analog zum erfolgreichen Hausgeräte Smart Dealer-Programm.</div>
+  <div class="opti-bullet">Erlebnis-Installationen für 85" und 98" Modelle: Neo QLED als Heimkino, MicroLED als Statussymbol, The Frame als Kunstwerk.</div>
+  <div class="opti-bullet">Exklusive Produktlinien und erhöhte Margen für engagierte Partner.</div>
+  <div class="opti-bullet">Co-Op-Marketing-Budgets: lokale Werbung, exklusive Events, POS-Promotions.</div>
+  <div class="opti-bullet">HiFi-Spezialisten als Premium-Nische für hochkompetente Beratung bei Neo QLED, OLED und MicroLED.</div>
+  <div class="opti-bullet">Vorbild: Expert Roolfs (Samsung Smart Dealer des Jahres 2020), HiFi-Profis Berlin.</div>
+</div>
+</div>
+<div>
+<div class="card card-lime">
+  <div class="mono mb-1 accent-lime">Szenario 2 · D2C ausbauen</div>
+  <div class="opti-bullet">Samsung.com: Transformation von Informationskanal zur vollwertigen Premium-Verkaufsplattform.</div>
+  <div class="opti-bullet">Exklusive Bundles nur auf Samsung.com: The Frame mit individuellen Rahmen, Neo QLED mit Soundbar-Paketen.</div>
+  <div class="opti-bullet">White-Glove-Service: Premium-Lieferung, Wandmontage und Kalibrierung durch zertifizierte Techniker.</div>
+  <div class="opti-bullet">Trade-in-Programme: Inzahlungnahme alter TV-Geräte senkt Kaufhürde für Premium-Upgrade.</div>
+  <div class="opti-bullet">Samsung Financing: 0%-Finanzierung für 24 Monate als eigenes Produkt.</div>
+  <div class="opti-bullet">In-TV-Shopping: Samsung TV Plus (88 Mio. monatliche Nutzer weltweit) als direkter Commerce-Kanal.</div>
+  <div class="opti-bullet">Social Commerce: Instagram/Pinterest (The Frame), TikTok Shop (jüngere Zielgruppen).</div>
+</div>
+</div>
+</div>
+
+---
+class: text-sm
+---
+
+<div class="tag">// D · Distribution · Szenarien im Detail</div>
+
+## Szenarien 3–6:<br><span class="accent-lime">Physische Kanäle, Telko, B2B & Digitale Ökosysteme.</span>
+
+<div class="grid grid-cols-2 gap-4 mt-4">
+<div>
+<div class="card card-orange mb-3">
+  <div class="mono mb-1 accent-orange">Szenario 3 · Neue physische Kanäle</div>
+  <div class="opti-bullet">XXXLutz / Höffner (370+ Standorte): TV als Teil von Wohnzimmer-Inszenierungen.</div>
+  <div class="opti-bullet">Galeria / Breuninger (50+ Standorte): Premium-Elektronikabteilung im Lifestyle-Kontext.</div>
+  <div class="opti-bullet">IKEA (54 Standorte): SmartThings-Integration, TV in Wohnzimmer-Settings für junge Familien.</div>
+  <div class="opti-bullet">Samsung Experience Centers: 3–5 neue Standorte in Berlin, München, Hamburg.</div>
+</div>
+<div class="card card-orange">
+  <div class="mono mb-1 accent-orange">Szenario 4 · Telekommunikation & Bundles</div>
+  <div class="opti-bullet">Deutsche Telekom (500+ Shops): Smart Home + TV Bundle, Glasfaser-Upgrade als Trigger.</div>
+  <div class="opti-bullet">Vodafone / O2 (800+ Shops): GigaTV + Samsung Premium Bundle für junge Familien.</div>
+  <div class="opti-bullet">Umzug und Neubezug als natürlicher Kauftrigger — kein Wettbewerb um diesen Moment.</div>
+</div>
+</div>
+<div>
+<div class="card mb-3" style="border-top: 3px solid #555;">
+  <div class="mono mb-1" style="color:#777;">Szenario 5 · B2B & Hospitality</div>
+  <div class="opti-bullet">Hotels, Restaurants, Büros als Absatzkanal für beratungsintensive Großbildschirme.</div>
+  <div class="opti-bullet">MicroLED und The Wall als dezidierte B2B-Produkte mit eigenem Vertriebskanal.</div>
+  <div class="opti-bullet">HiFi-Fachhandel (200+ Standorte) für audiofile Heimkino-Enthusiasten: AV-Spezialisten für Neo QLED, OLED, MicroLED.</div>
+</div>
+<div class="card" style="border-top: 3px solid #555;">
+  <div class="mono mb-1" style="color:#777;">Szenario 6 · Digitale Ökosysteme</div>
+  <div class="opti-bullet">Amazon Premium Store: kuratierter Samsung-Markenshop mit Premium-Positionierung.</div>
+  <div class="opti-bullet">Gaming-Plattformen: Steam, Xbox Marketplace — Gaming-TV-Bundles für Tech-Enthusiasten.</div>
+  <div class="opti-bullet">Architekt-Plattformen: Houzz, Architonic — The Frame als Designobjekt für Interior Designer.</div>
+  <div class="opti-bullet">Samsung TV Plus: 88 Mio. monatliche Nutzer als direkter Commerce-Kanal.</div>
+</div>
+</div>
+</div>
+
+---
+
+<div class="tag">// D · Distribution · Roadmap</div>
+
+## Von der Reaktion zur Neuerfindung.<br><span class="accent-lime">36-Monats-Roadmap für Samsung TV.</span>
+
+<div class="grid grid-cols-3 gap-4 mt-5">
+<div class="card card-lime">
+  <div class="mono mb-1 accent-lime">Phase 1 · 0–12 Monate</div>
+  <div class="text-sm font-bold mb-3">Stabilisieren</div>
+  <div class="opti-bullet">Fachhandel (Expert/Euronics) mit Premium-TV-Partnerprogramm stärken.</div>
+  <div class="opti-bullet">Samsung.com als vollwertigen D2C-Kanal mit White-Glove-Service ausbauen.</div>
+  <div class="opti-bullet">Telekommunikationsanbieter als Bundle-Partner aktivieren (Telekom, Vodafone).</div>
+  <div class="opti-bullet">Samsung Experience Centers in Top-3-Städten eröffnen.</div>
+  <div class="opti-bullet">B2B/Hospitality-Vertrieb intensivieren und skalieren.</div>
+</div>
+<div class="card" style="border-top: 3px solid var(--color-vivid-orange);">
+  <div class="mono mb-1 accent-orange">Phase 2 · 12–24 Monate</div>
+  <div class="text-sm font-bold mb-3">Wachsen</div>
+  <div class="opti-bullet">Möbel/Interior Design-Kooperationen aufbauen (XXXLutz, IKEA, Küchenfachhandel).</div>
+  <div class="opti-bullet">Digitale Ökosystem-Partnerschaften vertiefen (Streaming, Gaming, Apple).</div>
+  <div class="opti-bullet">Luxus-Retail-Präsenz etablieren (Galeria, Breuninger, KaDeWe).</div>
+  <div class="opti-bullet">SmartThings-Ökosystem als Retention- und Cross-Selling-Motor ausbauen.</div>
+</div>
+<div class="card" style="border-top: 3px solid #555;">
+  <div class="mono mb-1" style="color:#777;">Phase 3 · 24–36 Monate</div>
+  <div class="text-sm font-bold mb-3">Führen</div>
+  <div class="opti-bullet">Vollständige D2C-Infrastruktur mit datengetriebener Personalisierung.</div>
+  <div class="opti-bullet">Internationales Rollout der neuen Kanalstrategie (DACH, Benelux, Nordics).</div>
+  <div class="opti-bullet">Samsung TV als Lifestyle-Marke jenseits des Elektronikhandels positionieren.</div>
+</div>
+</div>
+
+<div class="grid grid-cols-3 gap-3 mt-4 text-xs">
+  <div class="card" style="border-left: 3px solid var(--color-neon-green);">
+    <div class="mono mb-1 accent-lime">Prinzip 1</div>
+    <div class="text-grey">Diversifizierung: Kein einzelner Kanal mehr als 25% des Umsatzes.</div>
+  </div>
+  <div class="card" style="border-left: 3px solid var(--color-vivid-orange);">
+    <div class="mono mb-1 accent-orange">Prinzip 2</div>
+    <div class="text-grey">Premiumisierung: Jeder neue Kanal muss das Premium-Image stärken.</div>
+  </div>
+  <div class="card" style="border-left: 3px solid #555;">
+    <div class="mono mb-1">Prinzip 3</div>
+    <div class="text-grey">Ökosystem-Denken: Samsung TV ist der Mittelpunkt des vernetzten Zuhauses.</div>
+  </div>
+</div>
+
+
+
 
 ---
 layout: statement
