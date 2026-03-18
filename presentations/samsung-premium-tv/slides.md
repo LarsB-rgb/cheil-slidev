@@ -819,7 +819,7 @@ class: p-0
 <div id="hvm-slide" style="position:relative;z-index:5;display:grid;grid-template-columns:1fr 1fr 1fr;gap:0;max-width:900px;margin:0 auto;">
 
   <div>
-    <div style="text-align:center;font-size:0.45rem;letter-spacing:3px;text-transform:uppercase;color:#00b4d8;border-bottom:1px solid #00b4d8;padding:0.4rem;margin-bottom:0.8rem;">Attribute</div>
+    <div style="text-align:center;font-size:0.45rem;letter-spacing:3px;text-transform:uppercase;color:#00b4d8;border-bottom:1px solid #00b4d8;padding:0.4rem;margin-bottom:0.8rem;">Features</div>
     <div style="display:flex;flex-direction:column;align-items:center;gap:6px;padding:0 4px;" id="col-attr">
       <div class="hvm-node" style="background:#0e2a3a;border:1px solid #00b4d8;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="a1" data-connects='["c1","c2"]' data-info="&lt;b&gt;165 Hz OLED Display&lt;/b&gt; — Ultra-schnelle Bildwiederholrate eliminiert Ghosting. Jede Bewegung ist gestochen scharf.">
         <div class="hvm-tag" style="color:#00b4d8;">Display</div>
@@ -860,7 +860,7 @@ class: p-0
   </div>
 
   <div>
-    <div style="text-align:center;font-size:0.45rem;letter-spacing:3px;text-transform:uppercase;color:#7b2fff;border-bottom:1px solid #7b2fff;padding:0.4rem;margin-bottom:0.8rem;">Konsequenzen</div>
+    <div style="text-align:center;font-size:0.45rem;letter-spacing:3px;text-transform:uppercase;color:#7b2fff;border-bottom:1px solid #7b2fff;padding:0.4rem;margin-bottom:0.8rem;">Benefits</div>
     <div style="display:flex;flex-direction:column;align-items:center;gap:6px;padding:0 4px;" id="col-cons">
       <div class="hvm-node" style="background:#1a1040;border:1px solid #7b2fff;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="c1" data-connects='["a1","a2","a7","v1","v2"]' data-info="&lt;b&gt;Tiefe Immersion&lt;/b&gt; — Der Spieler taucht vollständig in die Spielwelt ein; äußere Ablenkungen verschwinden.">
         <div class="hvm-tag" style="color:#7b2fff;">Psychosozial</div>
