@@ -820,38 +820,38 @@ class: p-0
 
   <div>
     <div style="text-align:center;font-size:0.45rem;letter-spacing:3px;text-transform:uppercase;color:#00b4d8;border-bottom:1px solid #00b4d8;padding:0.4rem;margin-bottom:0.8rem;">Attribute</div>
-    <div style="display:flex;flex-direction:column;align-items:center;gap:0.4rem;padding:0 0.3rem;" id="col-attr">
-      <div class="hvm-node attr-node" data-id="a1" data-connects='["c1","c2"]' data-info="&lt;b&gt;165 Hz OLED Display&lt;/b&gt; — Ultra-schnelle Bildwiederholrate eliminiert Ghosting. Jede Bewegung ist gestochen scharf.">
+    <div style="display:flex;flex-direction:column;align-items:center;gap:6px;padding:0 4px;" id="col-attr">
+      <div class="hvm-node" style="background:#0e2a3a;border:1px solid #00b4d8;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="a1" data-connects='["c1","c2"]' data-info="&lt;b&gt;165 Hz OLED Display&lt;/b&gt; — Ultra-schnelle Bildwiederholrate eliminiert Ghosting. Jede Bewegung ist gestochen scharf.">
         <div class="hvm-tag" style="color:#00b4d8;">Display</div>
         <div class="hvm-title">165 Hz OLED</div>
         <div class="hvm-desc">Anti-Ghosting · Crystal Motion</div>
       </div>
-      <div class="hvm-node attr-node" data-id="a2" data-connects='["c1","c3"]' data-info="&lt;b&gt;1ms Response Time (GtG)&lt;/b&gt; — Minimale Eingabeverzögerung für sofortige Reaktion zwischen Controller und Bild.">
+      <div class="hvm-node" style="background:#0e2a3a;border:1px solid #00b4d8;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="a2" data-connects='["c1","c3"]' data-info="&lt;b&gt;1ms Response Time (GtG)&lt;/b&gt; — Minimale Eingabeverzögerung für sofortige Reaktion zwischen Controller und Bild.">
         <div class="hvm-tag" style="color:#00b4d8;">Performance</div>
         <div class="hvm-title">1ms Response</div>
         <div class="hvm-desc">GtG · Input Lag minimal</div>
       </div>
-      <div class="hvm-node attr-node" data-id="a3" data-connects='["c2","c4"]' data-info="&lt;b&gt;FreeSync Premium Pro / G-Sync&lt;/b&gt; — Adaptives Sync eliminiert Screen-Tearing und Stutter für flüssiges Gameplay.">
+      <div class="hvm-node" style="background:#0e2a3a;border:1px solid #00b4d8;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="a3" data-connects='["c2","c4"]' data-info="&lt;b&gt;FreeSync Premium Pro / G-Sync&lt;/b&gt; — Adaptives Sync eliminiert Screen-Tearing und Stutter für flüssiges Gameplay.">
         <div class="hvm-tag" style="color:#00b4d8;">Sync</div>
         <div class="hvm-title">FreeSync Pro</div>
         <div class="hvm-desc">VRR · Tear-free</div>
       </div>
-      <div class="hvm-node attr-node" data-id="a4" data-connects='["c3","c5"]' data-info="&lt;b&gt;AI Game Mode&lt;/b&gt; — Automatische Optimierung von Bildschärfe, HDR und Ton basierend auf dem erkannten Spielgenre.">
+      <div class="hvm-node" style="background:#0e2a3a;border:1px solid #00b4d8;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="a4" data-connects='["c3","c5"]' data-info="&lt;b&gt;AI Game Mode&lt;/b&gt; — Automatische Optimierung von Bildschärfe, HDR und Ton basierend auf dem erkannten Spielgenre.">
         <div class="hvm-tag" style="color:#00b4d8;">KI</div>
         <div class="hvm-title">AI Game Mode</div>
         <div class="hvm-desc">Auto-Optimierung · Genre-KI</div>
       </div>
-      <div class="hvm-node attr-node" data-id="a5" data-connects='["c4","c5"]' data-info="&lt;b&gt;GameHub Ecosystem&lt;/b&gt; — Xbox Cloud, GeForce Now, Samsung Cloud nativ integriert.">
+      <div class="hvm-node" style="background:#0e2a3a;border:1px solid #00b4d8;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="a5" data-connects='["c4","c5"]' data-info="&lt;b&gt;GameHub Ecosystem&lt;/b&gt; — Xbox Cloud, GeForce Now, Samsung Cloud nativ integriert.">
         <div class="hvm-tag" style="color:#00b4d8;">Ökosystem</div>
         <div class="hvm-title">GameHub</div>
         <div class="hvm-desc">Cloud · Xbox · GeForce Now</div>
       </div>
-      <div class="hvm-node attr-node" data-id="a6" data-connects='["c6","c2"]' data-info="&lt;b&gt;Gaming Hub TV&lt;/b&gt; — Dedizierte Gaming-TV-Plattform mit Game Bar, VRR, HDMI 2.1.">
+      <div class="hvm-node" style="background:#0e2a3a;border:1px solid #00b4d8;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="a6" data-connects='["c6","c2"]' data-info="&lt;b&gt;Gaming Hub TV&lt;/b&gt; — Dedizierte Gaming-TV-Plattform mit Game Bar, VRR, HDMI 2.1.">
         <div class="hvm-tag" style="color:#00b4d8;">Smart TV</div>
         <div class="hvm-title">Gaming Hub TV</div>
         <div class="hvm-desc">4K · VRR · HDMI 2.1</div>
       </div>
-      <div class="hvm-node attr-node" data-id="a7" data-connects='["c6","c1"]' data-info="&lt;b&gt;Spatial Audio (Dolby Atmos)&lt;/b&gt; — 3D-Klangraum für präzise Richtungswahrnehmung.">
+      <div class="hvm-node" style="background:#0e2a3a;border:1px solid #00b4d8;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="a7" data-connects='["c6","c1"]' data-info="&lt;b&gt;Spatial Audio (Dolby Atmos)&lt;/b&gt; — 3D-Klangraum für präzise Richtungswahrnehmung.">
         <div class="hvm-tag" style="color:#00b4d8;">Audio</div>
         <div class="hvm-title">Spatial Audio</div>
         <div class="hvm-desc">Dolby Atmos · 3D-Positional</div>
@@ -861,33 +861,33 @@ class: p-0
 
   <div>
     <div style="text-align:center;font-size:0.45rem;letter-spacing:3px;text-transform:uppercase;color:#7b2fff;border-bottom:1px solid #7b2fff;padding:0.4rem;margin-bottom:0.8rem;">Konsequenzen</div>
-    <div style="display:flex;flex-direction:column;align-items:center;gap:0.4rem;padding:0 0.3rem;" id="col-cons">
-      <div class="hvm-node cons-node" data-id="c1" data-connects='["a1","a2","a7","v1","v2"]' data-info="&lt;b&gt;Tiefe Immersion&lt;/b&gt; — Der Spieler taucht vollständig in die Spielwelt ein; äußere Ablenkungen verschwinden.">
+    <div style="display:flex;flex-direction:column;align-items:center;gap:6px;padding:0 4px;" id="col-cons">
+      <div class="hvm-node" style="background:#1a1040;border:1px solid #7b2fff;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="c1" data-connects='["a1","a2","a7","v1","v2"]' data-info="&lt;b&gt;Tiefe Immersion&lt;/b&gt; — Der Spieler taucht vollständig in die Spielwelt ein; äußere Ablenkungen verschwinden.">
         <div class="hvm-tag" style="color:#7b2fff;">Psychosozial</div>
         <div class="hvm-title">Tiefe Immersion</div>
         <div class="hvm-desc">Flow-Zustand · Realitätsvergessenheit</div>
       </div>
-      <div class="hvm-node cons-node" data-id="c2" data-connects='["a1","a3","a6","v1","v3"]' data-info="&lt;b&gt;Wettbewerbsvorteil&lt;/b&gt; — Höhere FPS und bessere Bildqualität liefern messbare Vorteile in Ranked-Matches.">
+      <div class="hvm-node" style="background:#1a1040;border:1px solid #7b2fff;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="c2" data-connects='["a1","a3","a6","v1","v3"]' data-info="&lt;b&gt;Wettbewerbsvorteil&lt;/b&gt; — Höhere FPS und bessere Bildqualität liefern messbare Vorteile in Ranked-Matches.">
         <div class="hvm-tag" style="color:#7b2fff;">Funktional</div>
         <div class="hvm-title">Wettbewerbsvorteil</div>
         <div class="hvm-desc">Mehr Wins · Rankingaufstieg</div>
       </div>
-      <div class="hvm-node cons-node" data-id="c3" data-connects='["a2","a4","v2","v4"]' data-info="&lt;b&gt;Effizienz & Zeitersparnis&lt;/b&gt; — KI und automatisierte Optimierungen reduzieren Setup-Zeit.">
+      <div class="hvm-node" style="background:#1a1040;border:1px solid #7b2fff;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="c3" data-connects='["a2","a4","v2","v4"]' data-info="&lt;b&gt;Effizienz & Zeitersparnis&lt;/b&gt; — KI und automatisierte Optimierungen reduzieren Setup-Zeit.">
         <div class="hvm-tag" style="color:#7b2fff;">Funktional</div>
         <div class="hvm-title">Effizienz & Zeit</div>
         <div class="hvm-desc">Setup-frei · Mehr Spielzeit</div>
       </div>
-      <div class="hvm-node cons-node" data-id="c4" data-connects='["a3","a5","v3","v5"]' data-info="&lt;b&gt;Konstante Performance&lt;/b&gt; — Kein Lag, kein Throttling, keine Verbindungsabbrüche.">
+      <div class="hvm-node" style="background:#1a1040;border:1px solid #7b2fff;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="c4" data-connects='["a3","a5","v3","v5"]' data-info="&lt;b&gt;Konstante Performance&lt;/b&gt; — Kein Lag, kein Throttling, keine Verbindungsabbrüche.">
         <div class="hvm-tag" style="color:#7b2fff;">Funktional</div>
         <div class="hvm-title">Konstante Performance</div>
         <div class="hvm-desc">Stabil · Zuverlässig</div>
       </div>
-      <div class="hvm-node cons-node" data-id="c5" data-connects='["a4","a5","v4","v5"]' data-info="&lt;b&gt;Reaktivität & Kontrolle&lt;/b&gt; — Unmittelbares Feedback zwischen Eingabe und Spielreaktion.">
+      <div class="hvm-node" style="background:#1a1040;border:1px solid #7b2fff;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="c5" data-connects='["a4","a5","v4","v5"]' data-info="&lt;b&gt;Reaktivität & Kontrolle&lt;/b&gt; — Unmittelbares Feedback zwischen Eingabe und Spielreaktion.">
         <div class="hvm-tag" style="color:#7b2fff;">Psychosozial</div>
         <div class="hvm-title">Reaktivität & Kontrolle</div>
         <div class="hvm-desc">Präzision · Körpergefühl</div>
       </div>
-      <div class="hvm-node cons-node" data-id="c6" data-connects='["a6","a7","v1","v6"]' data-info="&lt;b&gt;Soziales Erlebnis&lt;/b&gt; — Gemeinsam spielen, streamen, teilen — das Gerät wird zur sozialen Plattform.">
+      <div class="hvm-node" style="background:#1a1040;border:1px solid #7b2fff;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="c6" data-connects='["a6","a7","v1","v6"]' data-info="&lt;b&gt;Soziales Erlebnis&lt;/b&gt; — Gemeinsam spielen, streamen, teilen — das Gerät wird zur sozialen Plattform.">
         <div class="hvm-tag" style="color:#7b2fff;">Sozial</div>
         <div class="hvm-title">Soziales Erlebnis</div>
         <div class="hvm-desc">Co-op · Streaming · Teilen</div>
@@ -897,33 +897,33 @@ class: p-0
 
   <div>
     <div style="text-align:center;font-size:0.45rem;letter-spacing:3px;text-transform:uppercase;color:#ff6d00;border-bottom:1px solid #ff6d00;padding:0.4rem;margin-bottom:0.8rem;">Werte</div>
-    <div style="display:flex;flex-direction:column;align-items:center;gap:0.4rem;padding:0 0.3rem;" id="col-vals">
-      <div class="hvm-node val-node" data-id="v1" data-connects='["c1","c2","c6"]' data-info="&lt;b&gt;Freude & Vergnügen&lt;/b&gt; — Gaming soll Spaß machen, aufheitern, positive Emotionen auslösen.">
+    <div style="display:flex;flex-direction:column;align-items:center;gap:6px;padding:0 4px;" id="col-vals">
+      <div class="hvm-node" style="background:#1a0a00;border:1px solid #ff6d00;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="v1" data-connects='["c1","c2","c6"]' data-info="&lt;b&gt;Freude & Vergnügen&lt;/b&gt; — Gaming soll Spaß machen, aufheitern, positive Emotionen auslösen.">
         <div class="hvm-tag" style="color:#ff6d00;">Hedonistisch</div>
         <div class="hvm-title">Freude & Vergnügen</div>
         <div class="hvm-desc">Spaß · Positive Emotionen</div>
       </div>
-      <div class="hvm-node val-node" data-id="v2" data-connects='["c1","c3"]' data-info="&lt;b&gt;Selbstverwirklichung&lt;/b&gt; — Fähigkeiten ausbauen, Ziele erreichen, das eigene Potenzial ausschöpfen.">
+      <div class="hvm-node" style="background:#1a0a00;border:1px solid #ff6d00;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="v2" data-connects='["c1","c3"]' data-info="&lt;b&gt;Selbstverwirklichung&lt;/b&gt; — Fähigkeiten ausbauen, Ziele erreichen, das eigene Potenzial ausschöpfen.">
         <div class="hvm-tag" style="color:#ff6d00;">Terminal</div>
         <div class="hvm-title">Selbstverwirklichung</div>
         <div class="hvm-desc">Skills · Wachstum · Potenzial</div>
       </div>
-      <div class="hvm-node val-node" data-id="v3" data-connects='["c2","c4"]' data-info="&lt;b&gt;Leistung & Kompetenz&lt;/b&gt; — Als fähiger Spieler wahrgenommen werden.">
+      <div class="hvm-node" style="background:#1a0a00;border:1px solid #ff6d00;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="v3" data-connects='["c2","c4"]' data-info="&lt;b&gt;Leistung & Kompetenz&lt;/b&gt; — Als fähiger Spieler wahrgenommen werden.">
         <div class="hvm-tag" style="color:#ff6d00;">Terminal</div>
         <div class="hvm-title">Leistung & Kompetenz</div>
         <div class="hvm-desc">Können · Anerkennung</div>
       </div>
-      <div class="hvm-node val-node" data-id="v4" data-connects='["c3","c5"]' data-info="&lt;b&gt;Autonomie & Kontrolle&lt;/b&gt; — Freiheit, selbst zu entscheiden, ohne technische Beschränkungen.">
+      <div class="hvm-node" style="background:#1a0a00;border:1px solid #ff6d00;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="v4" data-connects='["c3","c5"]' data-info="&lt;b&gt;Autonomie & Kontrolle&lt;/b&gt; — Freiheit, selbst zu entscheiden, ohne technische Beschränkungen.">
         <div class="hvm-tag" style="color:#ff6d00;">Terminal</div>
         <div class="hvm-title">Autonomie & Kontrolle</div>
         <div class="hvm-desc">Freiheit · Selbstbestimmung</div>
       </div>
-      <div class="hvm-node val-node" data-id="v5" data-connects='["c4","c5"]' data-info="&lt;b&gt;Sicherheit & Vertrauen&lt;/b&gt; — Vertrauen dass die Technik im entscheidenden Moment funktioniert.">
+      <div class="hvm-node" style="background:#1a0a00;border:1px solid #ff6d00;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="v5" data-connects='["c4","c5"]' data-info="&lt;b&gt;Sicherheit & Vertrauen&lt;/b&gt; — Vertrauen dass die Technik im entscheidenden Moment funktioniert.">
         <div class="hvm-tag" style="color:#ff6d00;">Terminal</div>
         <div class="hvm-title">Sicherheit & Vertrauen</div>
         <div class="hvm-desc">Verlässlichkeit · Stabilität</div>
       </div>
-      <div class="hvm-node val-node" data-id="v6" data-connects='["c6"]' data-info="&lt;b&gt;Zugehörigkeit&lt;/b&gt; — Gaming als sozialer Kit: Freundschaften, Communities, geteilte Erlebnisse.">
+      <div class="hvm-node" style="background:#1a0a00;border:1px solid #ff6d00;border-radius:5px;cursor:pointer;max-width:160px;padding:5px 8px;position:relative;text-align:center;transition:all 0.25s ease;width:100%;font-size:10px;box-sizing:border-box;" data-id="v6" data-connects='["c6"]' data-info="&lt;b&gt;Zugehörigkeit&lt;/b&gt; — Gaming als sozialer Kit: Freundschaften, Communities, geteilte Erlebnisse.">
         <div class="hvm-tag" style="color:#ff6d00;">Sozial</div>
         <div class="hvm-title">Zugehörigkeit</div>
         <div class="hvm-desc">Community · Identität · Bonds</div>
@@ -938,32 +938,6 @@ class: p-0
 
 </div>
 
-<style scoped>
-.hvm-node {
-  position: relative;
-  width: 100%;
-  max-width: 180px;
-  padding: 8px 12px;
-  border-radius: 6px;
-  border: 1px solid;
-  cursor: pointer;
-  transition: all 0.25s ease;
-  text-align: center;
-}
-.attr-node { background: #0e2a3a; border-color: #00b4d8; }
-.attr-node:hover, .attr-node.active { box-shadow: 0 0 20px rgba(0,180,216,0.4); border-color: #00d4ff; transform: scale(1.04); }
-.cons-node { background: #1a1040; border-color: #7b2fff; }
-.cons-node:hover, .cons-node.active { box-shadow: 0 0 20px rgba(123,47,255,0.4); border-color: #9d4fff; transform: scale(1.04); }
-.val-node { background: #1a0a00; border-color: #ff6d00; }
-.val-node:hover, .val-node.active { box-shadow: 0 0 20px rgba(255,109,0,0.4); border-color: #ff8f40; transform: scale(1.04); }
-.hvm-tag { font-size: 0.38rem; letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 3px; opacity: 0.8; }
-.hvm-title { font-size: 0.6rem; font-weight: 700; letter-spacing: 0.5px; color: #e8f4f8; margin-bottom: 2px; }
-.hvm-desc { font-size: 0.45rem; color: #8ab4c2; line-height: 1.4; }
-.conn-line { stroke: rgba(255,255,255,0.12); stroke-width: 1.5; fill: none; transition: all 0.3s; }
-.conn-highlight-a { stroke: #00b4d8; stroke-width: 2.5; }
-.conn-highlight-c { stroke: #7b2fff; stroke-width: 2.5; }
-.conn-highlight-v { stroke: #ff6d00; stroke-width: 2.5; }
-</style>
 <script setup>
 import { onMounted } from 'vue'
 
@@ -1063,7 +1037,7 @@ onMounted(() => {
         }
       })
 
-      infoEl.innerHTML = (node.info || '').replace(/&lt;b&gt;/g,'<b>').replace(/&lt;\/b&gt;/g,'</b>')
+      infoEl.innerHTML = (node.info || '').replace(/&lt;b&gt;/g, '<b>').replace(/&lt;\/b&gt;/g, '</b>')
     }
 
     document.querySelectorAll('.hvm-node').forEach(el => {
