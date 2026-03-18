@@ -682,6 +682,21 @@ class: text-sm
 </div>
 
 ---
+layout: statement
+---
+
+<div style="position:absolute;inset:0;background:#000;display:flex;align-items:center;justify-content:center;flex-direction:column;">
+
+<div style="font-size:0.65rem;letter-spacing:4px;text-transform:uppercase;color:var(--color-vivid-orange);margin-bottom:2rem;font-family:'Cheil Roman',sans-serif;">// Los geht's</div>
+
+<div style="font-size:9rem;font-weight:800;line-height:0.9;text-align:center;font-family:'Cheil Roman',sans-serif;">
+  <span style="color:white;">Let's</span><br>
+  <span style="color:var(--color-neon-green);">go.</span>
+</div>
+
+</div>
+
+---
 class: text-sm
 ---
 
